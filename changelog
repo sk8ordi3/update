@@ -1,0 +1,13 @@
+v1.4.9
+
+RTL Most+
+-listázás funkció
+token nélküli .mpd link lesz mentve
+így a későbbiekben is letölthető lesz
+
+-látássérültek részére a főmenük
+a bill számok gombjaival is navigálhatóak
+0 = 10
+pl.
+03 = [Direct One] Videótár elérhető legjobb minőség
+72 = [NAVA] NAVA Rádió (vágott)
