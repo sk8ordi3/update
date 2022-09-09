@@ -17,5 +17,3 @@ v1.5.0
 -csonkított ffmpeg.exe hibái miatt cserélve
  az 5.0.1-re emiatt is lett
  nagyobb a fájl mérete..
-
--phantomjs hozzáadva a yt-dlp miatt 
