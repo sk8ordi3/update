@@ -1,13 +1,21 @@
-v1.4.9
+v1.5.0
 
-RTL Most+
--listázás funkció
-token nélküli .mpd link lesz mentve
-így a későbbiekben is letölthető lesz
+új letöltő hozzáadva: DRM nélküli vod
+-tv2csoport.hu
+-ozonetv.hu
 
--látássérültek részére a főmenük
-a bill számok gombjaival is navigálhatóak
-0 = 10
-pl.
-03 = [Direct One] Videótár elérhető legjobb minőség
-72 = [NAVA] NAVA Rádió (vágott)
+új letöltő hozzáadva: Zene
+-yt-dlp batch-ből az mp3 részleg áthozva
+ 
+-lejátszási lista/playlist csak a youtube
+ tartalmaira vonatkozik
+ 
+-txt listából való letöltéshez mostantól
+ itt találhatóak meg a fájlok
+ drmfiles\programok\letoltes-lista\
+
+-csonkított ffmpeg.exe hibái miatt cserélve
+ az 5.0.1-re emiatt is lett
+ nagyobb a fájl mérete..
+
+-phantomjs hozzáadva a yt-dlp miatt 
