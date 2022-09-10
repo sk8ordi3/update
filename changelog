@@ -11,7 +11,7 @@ v1.5.0
 -lejátszási lista/playlist csak a youtube
  tartalmaira vonatkozik
 - .txt listából való letöltéshez mostantól
- itt találhatóak meg a fájlok
+ itt találhatóak a fájlok
  drmfiles\programok\letoltes-lista\
 
 -csonkított ffmpeg.exe a hibái miatt cserélve
