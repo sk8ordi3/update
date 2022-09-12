@@ -1,12 +1,6 @@
-v1.5.1
+v1.5.2
 
-új letöltő hozzáadva: Zene
--pickx.be
--magentamusik.de
-
--rar helyett .7z -be van tömörítve
-akinek nem lenne telepítve:
-https://www.7-zip.org/a/7z2201-x64.exe
-
-javítva:
--atv.hu
+-random ffmpeg hiba miatt a 
+ programok áttéve oda ahol az ffmpeg is van..
+ N_m3u8DL-CLI_v3.0.2.exe
+ N_m3u8DL-RE.exe
