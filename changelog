@@ -1,6 +1,17 @@
-v1.5.2
+v1.5.3
 
--random ffmpeg hiba miatt a 
- programok áttéve oda ahol az ffmpeg is van..
- N_m3u8DL-CLI_v3.0.2.exe
- N_m3u8DL-RE.exe
+-mindigtvgo-Filmio
+ már nincs szükség a böngésző megnyitására
+ a cookie auto kiolvasásra kerül: chrome, firefox, brave
+ 
+-tv2play premium
+ nincs már szükség kiválasztani a böngészőt
+ a cookie auto kiolvasásra kerül: chrome, firefox, brave
+
+-DRM nélküli vod
+ yt-dlp Unsupported URL > mkv
+ ide került az összes olyan oldal amit alapból a
+ yt-dlp még nem támogat: tenyek.hu, rtl.hu, atv.hu 
+ tv2csoport.hu, ozonetv.hu, tv2play premium,
+ magentamusik.de, arte.tv music, pickx.be, podpad.hu
+ PM-be jöhet link amik még bekerüljenek ide..
