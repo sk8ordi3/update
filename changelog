@@ -4,7 +4,7 @@ RTL Most+
 
 - 01, 04 yt-dlp cserélve N_m3u8DL-RE.exe -re
  mivel egyszerre tudja tölteni a videót
- és az audiót valamivel gyorsult a letöltés
+ és az audiót, valamivel gyorsult a letöltés
 
 -mindenhol automatikus fájl elnevezés lett
  tartalmak külön mappázása
