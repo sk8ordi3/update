@@ -13,6 +13,9 @@ RTL Most+
  .mpd-ből az elérhető legjobb minőség kiírása
  
 -minden letöltés infója bekerül a listába
- kivéve, ha már tartalmazza a .mpd linket
+ (kivéve, ha már tartalmazza a .mpd linket)
  így aki több felbontásba tölt le annak
  a többinél már nem kell az rtl oldalával szívnia
+
+DRM nélküli vod
+-hosszú fájlelnevezések javítva
