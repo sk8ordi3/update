@@ -2,7 +2,7 @@ v1.6.6 (még mindig a v1.6.3 hiba javítása!)
 
 RTL Most+
 
-- 01, 04 yt-dlp cserélve N_m3u8DL-RE.exe -re
+-mindenhol a yt-dlp cserélve N_m3u8DL-RE.exe -re
  mivel egyszerre tudja tölteni a videót
  és az audiót, valamivel gyorsult a letöltés
 
