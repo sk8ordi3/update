@@ -1,18 +1,20 @@
-v1.6.6 (még mindig a v1.6.3 hiba javítása!)
+v1.6.7
 
 RTL Most+
 
--mindenhol a yt-dlp cserélve N_m3u8DL-RE.exe -re
- mivel egyszerre tudja tölteni a videót
- és az audiót, valamivel gyorsult a letöltés
+(aki használja, frissítsen mindenképp!)
 
--mindenhol automatikus fájl elnevezés lett
- tartalmak külön mappázása
+-már csak 1x jön be a firefox
+ elmenti a szükséges adatokat
+ azután már többet nem fog..
  
--listázásnál a címben a duplázódások kiszedve
- .mpd-ből az elérhető legjobb minőség kiírása
+-emiatt aki felváltva használja
+ az ingyenes és a szolgáltatós
+ acc-ot az előbb a firefox-ba
+ jelentkezzen be, azzal amelyikkel 
+ majd használni fogja
  
--minden letöltés infója bekerül a listába
- (kivéve, ha már tartalmazza a .mpd linket)
- így aki több felbontásba tölt le annak
- a többinél már nem kell az rtl oldalával szívnia
+-ennek a fájlnak a törlésével lehet
+ újra lekérni az adatokat a firefox-ból
+ bármelyik, rtl menün keresztül:
+ Downloads\info\acc-RTL-Most-info.json
