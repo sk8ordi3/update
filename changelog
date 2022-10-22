@@ -1,19 +1,11 @@
-v1.6.7
+v1.6.8
 
-RTL Most+
-(aki használja, frissítsen mindenképp!)
+mindigtvgo-Filmio
 
--már csak 1x jön be a firefox
- elmenti a szükséges adatokat
- azután már többet nem fog..
+-yt-dlp cserélve N_m3u8DL-RE.exe
+
+-cookie lehetőség megszűnt
+ visszakerült a firefox
+ (elég csak bejelentkezni, kivéve sorozatok)
  
--emiatt aki felváltva használja
- az ingyenes és a szolgáltatós
- acc-ot az előbb a firefox-ba
- jelentkezzen be, azzal amelyikkel 
- majd használni fogja
- 
--ennek a fájlnak a törlésével lehet
- újra lekérni az adatokat a firefox-ból
- Downloads\info\acc-RTL-Most-info.json
- bármelyik, rtl menün keresztül
+-Filmio-n pár tartalom 10.22-ig ingyenes
