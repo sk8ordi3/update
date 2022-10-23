@@ -1,11 +1,8 @@
-v1.6.8
+v1.6.9
 
-mindigtvgo-Filmio
-
--yt-dlp cserélve N_m3u8DL-RE.exe
-
--cookie lehetőség megszűnt
- visszakerült a firefox
- (elég csak bejelentkezni, kivéve sorozatok)
+új letöltő hozzáadva: >>
+-35mm online
  
--Filmio-n pár tartalom 10.23-ig ingyenes
+-35mm online-hoz szükséges modul
+ telepítése cmd ablakba: 
+ pip install jsonpath-ng
