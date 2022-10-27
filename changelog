@@ -1,8 +1,12 @@
-v1.6.9
+v1.7.0
 
-új letöltő hozzáadva: >>
--35mm online
- 
--35mm online-hoz szükséges modul
- telepítése cmd ablakba: 
- pip install jsonpath-ng
+TelekomTVGO hozzáadva: LIVE 
+
+élő adásból visszajátszás
+a lényege, hogy így olyan 
+műsorokat is lehet letölteni
+amik később nem visszajátszhatóak..
+
+új letöltő hozzáadva: 
+  DRM nélküli vod 06
+  -raiplay.it
