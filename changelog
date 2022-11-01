@@ -1,5 +1,16 @@
-v1.7.1
+v1.7.2
 
-RTL Most+
+DirectOne hozzáadva: LIVE
 
--videó választó javítva
+-élő felvétel a megadott linket használva,
+ egy csatornalogót kell kiválasztani
+ majd a bejövő új oldalon a linket
+ kimásolni
+ 
+-majd meg kell adni a műsor címét, felvétel 
+ idotartamának hosszát és hogy hány perc múlva 
+ kezdődjön el a  felvétel
+ lehet 0 is és akár 500 perc is...
+
+-a már felvett csatornából lista készül amit 
+ legközelebb már a 03-as gombbal le lehet hívni
