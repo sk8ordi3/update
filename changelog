@@ -1,16 +1,11 @@
-v1.7.2
+v1.7.3
 
-DirectOne hozzáadva: LIVE
+DRM nélküli felvétel hozzáadva: LIVE
 
--élő felvétel a megadott linket használva,
- egy csatornalogót kell kiválasztani
- majd a bejövő új oldalon a linket
- kimásolni
- 
--majd meg kell adni a műsor címét, felvétel 
- idotartamának hosszát és hogy hány perc múlva 
- kezdődjön el a  felvétel
- lehet 0 is és akár 500 perc is...
+-amint elindul a lejátszás a firefox-ban
+ auto keres .m3u8 és .mp3 linket
+ tesztelve: mediaklikk, radio1, rtlmost
 
--a már felvett csatornából lista készül amit 
- legközelebb már a 03-as gombbal le lehet hívni
+RTL Most+
+
+-ingyenes regnél sd dash-t is keres...
