@@ -1,13 +1,20 @@
-v1.7.3
-
-DRM nélküli felvétel hozzáadva: LIVE
-
--amint elindul a lejátszás a firefox-ban
- auto keres .m3u8 és .mp3 linket
- tesztelve: mediaklikk, radio1, rtlmost
- időzítés: hány perc múlva induljon el 
- és meddig vegyen fel
+v1.7.4
 
 RTL Most+
+-acc-RTL-Most-info.json fájl 
+ 5 nap után auto törlésre kerül
 
--ingyenes regnél sd dash-t is keres..
+-v1.7.3-ba azzal, hogy 
+ aktiváltam az ingyenes acc-hoz az 
+ sd dash linkek letöltését elcsesztem
+ a szolgáltatóst... javítva mindkettő
+ 
+disney+
+-már csak 1x jön be a firefox, utána
+ 4 órán át működik a token vagy a
+ program bezárásáig..
+
+HBOMAX
+-már csak 1x jön be a firefox
+ és csak a program újbóli indítása után 
+ jön elő ismét..
