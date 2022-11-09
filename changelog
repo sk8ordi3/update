@@ -6,6 +6,6 @@ v1.7.5
 
 mp4decrypt.exe
 -cserélve a régi verzióra
- akik régóta használják azokat nem lényeges
+ akik régóta használják azoknak nem lényeges
  a felugró hibák elkerülése miatt..
  (0xc000007b, VCRUNTIME140.dll, MSVCP140.dll)
