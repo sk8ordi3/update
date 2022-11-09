@@ -5,4 +5,7 @@ v1.7.5
  mindentudas.hu
 
 mp4decrypt.exe
- cserélve a régi verzióra
+-cserélve a régi verzióra
+ akik régóta használják azokat nem érinti
+ a felugró hibák elkerülése miatt..
+ (0xc000007b, VCRUNTIME140.dll, MSVCP140.dll)
