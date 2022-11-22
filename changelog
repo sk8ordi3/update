@@ -1,7 +1,6 @@
-v1.7.8
+v1.7.9
 
-RTL Most+
--aktivált szolgáltatás pontos jelzése
-
-újaknál a protobuf error ismét megjelent..
--javítva..
+HBOMAX
+-javítva:
+egyes filmeknél az angol hang
+lett kiválasztva a magyar helyett
