@@ -1,12 +1,4 @@
-v1.8.1
+v1.8.2
 
-Filmbox+
--letöltő javítva/újraírva...
-
-új letöltő hozzáadva: DRM nélküli vod 06
--sorozatbarat.club+felirat
- !!waaw, dood linkek nem támogatottak!!
-
-M3 rádióműsorok
--ismét javítva....
- újabb formátumú linkek letöltése
+HBOMAX
+-regex hiba javítva a gyorsabb szerverhez..
