@@ -1,4 +1,17 @@
-v1.8.2
+v1.8.3
 
-HBOMAX
--regex hiba javítva a gyorsabb szerverhez..
+új letöltő hozzáadva: >>>
+-Tudományos Stand Up
+ video/podcast részleg
+
+RTL Most+
+-javítva: jelenlegi acc kiírása
+
+DRM nélküli vod, RTL Most+
+-mkv/mp4 keterjesztés váltása
+ továbbra is az mkv maradt az alapértelmezett..
+ viszont az itt található 
+ drmfiles\programok\bin\ext.txt
+ fájlban lehet átírni
+ az mkv -t mp4 -re
+ így az elkészült fájl .mp4 lesz...
