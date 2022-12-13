@@ -1,17 +1,5 @@
-v1.8.3
-
-DRM nélküli vod, RTL Most+
--mkv/mp4 keterjesztés váltása
- továbbra is az mkv maradt az alapértelmezett..
- viszont az itt található 
- drmfiles\programok\bin\ext.txt
- fájlban lehet átírni
- az mkv -t mp4 -re
- így az elkészült fájl .mp4 lesz...
-
-új letöltő hozzáadva: >>>
--Tudományos Stand Up
- video/podcast részleg
+v1.8.4
 
 RTL Most+
--javítva: jelenlegi acc kiírása
+-javítva: csak az ingyenes acc-al
+ rendelkezőket érinti..
