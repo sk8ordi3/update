@@ -1,5 +1,24 @@
-v1.8.4
+v1.8.5
 
-RTL Most+
--javítva: csak az ingyenes acc-al
- rendelkezőket érinti..
+HBOMAX
+-első firefox indulás után a megújuló token
+ miatt már nem indul el a firefox
+ legalábbis 7 napig biztos nem..
+
+DRM nélküli vod
+-yt-dlp részlet kivágása a teljes videóból
+ részlet kezdete, vége alapján
+
+új letöltő hozzáadva: DRM nélküli vod 06
+-pestitv.pestisracok.hu / pestisracok.hu
+
+Disney+ : sorozat kibontó
+-teljes sorozat kibontása ahol jól látható,
+ hogy melyik rész tartalmaz magyar szinkront 
+ és magyar feliratot +minden részhez link..
+ (ez csak ellenőrzésre van, nincs letöltés!)
+
+RTL Most+ : sorozat kibontó
+-mivel van pár sorozat ahol rosszul töltötték ki,
+ hogy melyik lesz a következő rész.. 
+ ezzel így minden részhez elérhető lesz a link
