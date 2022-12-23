@@ -1,21 +1,12 @@
-v1.8.5
+v1.8.6
 
-HBOMAX
--első firefox indulás után a megújuló token
- miatt már nem indul el a firefox
- legalábbis 7 napig biztos nem..
+új letöltő hozzáadva: >>>
+-f1 TV formula1
 
-DRM nélküli vod
--yt-dlp részlet kivágása a teljes videóból
- részlet kezdete, vége alapján
-
-Disney+ : sorozat kibontó
--teljes sorozat kibontása ahol jól látható,
- hogy melyik rész tartalmaz magyar szinkront 
- és magyar feliratot +minden részhez link..
- (ez csak ellenőrzésre van, nincs letöltés!)
-
-RTL Most+ : sorozat kibontó
--mivel van pár sorozat ahol rosszul töltötték ki,
- hogy melyik lesz a következő rész.. 
- ezzel így minden részhez elérhető lesz a link
+javítva:
+-AMC MIKRO (csak hang, felbontás választó)
+-RTL Most+ Sorozat kibontó
+ még mindig van amit nem lehet
+ sorbarendezni, de 99%-ban már működik..
+ a rendezett linkek sorozatonként 
+ egy fájlba is tárolódnak
