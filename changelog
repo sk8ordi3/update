@@ -1,12 +1,40 @@
-v1.8.6
+v.1.8.7
+
+új letöltő hozzáadva: Netflix (csak 480p)
+-van 540p is, de az kb 400-as bitrátával van
+ szóval az nem lesz..
+-a ripper-t alakítottam a programhoz, így a
+ problémásabb részt a firefox elvégzi..
+
+-használat:
+ 1. firefox-ba bejelentkezni a netflix-be
+ majd a firefox összes lapját bezárni
+ 2. modulok telepítése:
+ drmfiles\programok\hianyzo-modulok\
+ hianyzo-modulok 02 csak_a_netflixhez_kell.bat
+ 3. valamelyik nf menü kiválasztása
+    majd egy link beírása
+ 3.1 ez csak egyszer fut le!
+     link megadása után elindul az
+	 ozark egyik része
+     (erre azért van szükség mert így lehet
+     a legjobban az összes szükséges
+	 sütit összeszedni)
+ 3.2 konzolba kérni fogja az e-mail és jelszót
+ 4. elkezdi letölteni amit megadtál linket
+
+-tudnivalók:
+ minden letöltés megkezdése egy új android
+ eszközt generál így a fő account mail-ben 
+ értesítést kap róla
+ 
+-minden menü magyar és angol hangot, feliratot
+ forced-et keres amit talál a végén összemuxol
+ (mivel annyira azért nincs sok szinkronos
+ tartalom azért keres így)
 
 új letöltő hozzáadva: >>>
--f1 TV formula1
+-Chili (it)
 
-javítva:
--AMC MIKRO (csak hang, felbontás választó)
--RTL Most+ Sorozat kibontó
- még mindig van amit nem lehet
- sorbarendezni, de 99%-ban már működik..
- a rendezett linkek sorozatonként 
- egy fájlba is tárolódnak
+-főmenüből a Filmbox+
+ átkerült ide: >>>
