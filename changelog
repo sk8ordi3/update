@@ -5,28 +5,6 @@ v.1.8.7
  szóval az nem lesz..
 -a ripper-t alakítottam a programhoz, így a
  problémásabb részt a firefox elvégzi..
-
--használat:
- 1. firefox-ba bejelentkezni a netflix-be
- majd a firefox összes lapját bezárni
- 2. modulok telepítése:
- drmfiles\programok\hianyzo-modulok\
- hianyzo-modulok 02 csak_a_netflixhez_kell.bat
- 3. valamelyik nf menü kiválasztása
-    majd egy link beírása
- 3.1 ez csak egyszer fut le!
-     link megadása után elindul az
-	 ozark egyik része
-     (erre azért van szükség mert így lehet
-     a legjobban az összes szükséges
-	 sütit összeszedni)
- 3.2 konzolba kérni fogja az e-mail és jelszót
- 4. elkezdi letölteni amit megadtál linket
-
--tudnivalók:
- minden letöltés megkezdése egy új android
- eszközt generál így a fő account mail-ben 
- értesítést kap róla
  
 -minden menü magyar és angol hangot, feliratot
  forced-et keres amit talál a végén összemuxol
