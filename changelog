@@ -6,6 +6,11 @@ v.1.8.7
 -a ripper-t alakítottam a programhoz, így a
  problémásabb részt a firefox elvégzi..
  
+-tudnivalók:
+ minden letöltés megkezdése egy új android
+ eszközt generál így a fő account mail-ben 
+ értesítést kap róla 
+ 
 -minden menü magyar és angol hangot, feliratot
  forced-et keres amit talál a végén összemuxol
  (mivel annyira azért nincs sok szinkronos
