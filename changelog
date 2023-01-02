@@ -1,23 +1,23 @@
-v.1.8.7
+v1.8.7
 
-új letöltő hozzáadva: Netflix (csak 480p)
--van 540p is, de az kb 400-as bitrátával van
- szóval az nem lesz..
--a ripper-t alakítottam a programhoz, így a
- problémásabb részt a firefox elvégzi..
- 
--tudnivalók:
- minden letöltés megkezdése egy új android
- eszközt generál így a fő account mail-ben 
- értesítést kap róla 
- 
--minden menü magyar és angol hangot, feliratot
- forced-et keres amit talál a végén összemuxol
- (mivel annyira azért nincs sok szinkronos
- tartalom azért keres így)
+Netflix menük kibővítve
 
-új letöltő hozzáadva: >>>
--Chili (it)
+-a konzol kérni fogja egyszer a release
+ nevedet pl. XLKK
+ vagy csak nyomj egy entert..
+ (web-dl release) menükre vonatkozik csak és
+ ilyenkor így fog kinézni az elkészült fájl:
+ Hangout.2014.NF.WEB-DL.DDP2.0.x264-XLKK.mkv
+ ez tartalmazni fog minden 
+ hangot, feliratot + forced-et
 
--főmenüből a Filmbox+
- átkerült ide: >>>
+-mux nélkül: 
+ a fájlok nem lesznek mkv-ba fűzve 
+ tartalmaz minden hangot, feliratot + forced-et
+
+-google keresőből, just watch oldaláról...stb
+ kb. mindenhonnan kimásolható a link a programba
+ (csak tartalmazza a netflix sorozat/film id-t..)
+
+-a már egyszer letöltött film/sorozat fájljai
+ error helyett felül lesznek írva...
