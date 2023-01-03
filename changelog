@@ -1,24 +1,5 @@
-v1.8.8
+v1.8.9
 
-Netflix menük kibővítve
-
--a konzol kérni fogja egyszer a release
- nevedet pl. XLKK
- vagy csak nyomj egy entert..
- (web-dl release) menükre vonatkozik csak és
- ilyenkor így fog kinézni az elkészült fájl:
- Hangout.2014.NF.WEB-DL.DDP2.0.x264-XLKK.mkv
- ez tartalmazni fog minden 
- hangot, feliratot + forced-et
-
--mux nélkül: 
- 3 részletbe lesznek letöltve a fájlok
- a fájlok nem lesznek mkv-ba fűzve 
- tartalmaz minden hangot, feliratot + forced-et
-
--google keresőből, just watch oldaláról...stb
- kb. mindenhonnan kimásolható a link a programba
- (csak tartalmazza a netflix sorozat/film id-t..)
-
--a már egyszer letöltött film/sorozat fájljai
- error helyett felül lesznek írva...
+HBOMAX
+-újra van 1080p lehetőség
+ biztos, hogy nem sokáig...
