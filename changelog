@@ -1,9 +1,16 @@
-v1.9.0
+v1.9.1
 
 HBOMAX
--újra van 1080p lehetőség
- biztos, hogy nem sokáig...
- 
+-4K lehetőség hozzáadva
+
+Filmbox+
+-video választóra cserélve
+
 Disney+
--újra van 1080p lehetőség
- biztos, hogy nem sokáig...
+-1080p lehetőség megszűnt..
+
+mp4decrypt
+-cserélve folyamatjelzősre
+ (jelezze akinek az ittlévő:
+ drmfiles\programok\bin\mp4decrypt.exe
+ futtatása hibát dob
