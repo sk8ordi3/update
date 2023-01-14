@@ -1,12 +1,19 @@
-v1.9.2
+v1.9.3
 
-új letöltő hozzáadva: LIVE
--sweet.tv 
- (elég sok magyar csatornával
- 1.hónap ingyenes..)
+javítva:
+-HBOMAX fájlnévben ""
+-Verzió fesztivál
+ azt a linket kell megadni amikor már elindult a videó
+ már csak eme logger-el lehet
+ a megfelelő pssh-t kinyerni
+ logger-en is módosítani kellett..
+ itt található:
+ drmfiles\programok\bin\Mod2 fesztivalhoz.user.js
+ (elég csak behúzni pl. a tampermonkey-be 
+ és egyből lehet is installálni..)
+ ezután a dev menü konzol menüjébe
+ lejátszásnál megjelenik a PSSH2 (fesztivalhoz): ...
+ amit majd bekér a konzol
 
-Netflix
--egyenlőre működésképtelen..
-
-HBOMAX csak sorozatok részleg:
--1080p + hangok (eng és hun hangok)
+-úgy néz ki a Netflix újra működik
+ akinél hiba lenne vissza kell váltania python 3.9-re
