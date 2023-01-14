@@ -3,7 +3,8 @@ v1.9.3
 javítva:
 -HBOMAX fájlnévben ""
 -Verzió fesztivál
- azt a linket kell megadni amikor már elindult a videó
+ azt a linket kell megadni amikor már 
+ elindult a videó
  már csak eme logger-el lehet
  a megfelelő pssh-t kinyerni
  logger-en is módosítani kellett..
