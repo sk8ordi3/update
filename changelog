@@ -1,20 +1,13 @@
-v1.9.3
+v1.9.4
 
-javítva:
--HBOMAX fájlnévben ""
--Verzió fesztivál
- azt a linket kell megadni amikor már 
- elindult a videó
- már csak eme logger-el lehet
- a megfelelő pssh-t kinyerni
- logger-en is módosítani kellett..
- itt található:
- drmfiles\programok\bin\Mod2 fesztivalhoz.user.js
- (elég csak behúzni pl. a tampermonkey-be 
- és egyből lehet is installálni..)
- ezután a dev menü konzol menüjébe
- lejátszásnál megjelenik a PSSH2 (fesztivalhoz): ...
- amit majd bekér a konzol
+-sweet.tv
+ dvr felvétel letöltése arról a csatornáról
+ ahol elérhető a visszajátszás funkció
 
--úgy néz ki a Netflix újra működik
- akinél hiba lenne vissza kell váltania python 3.9-re
+-verzió fesztivál
+ már nincs szükség a böngészőre
+ a pssh kimásolásához
+ 
+-új letöltő hozzáadva: DRM nélküli vod
+ yt-dlp elérhető legjobb és > 720x404
+ minden oldallal működik amit a yt-dlp támogat
