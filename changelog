@@ -1,14 +1,31 @@
-v1.9.4
+v1.9.5
 
--új letöltő hozzáadva: LIVE
--sweet.tv
- dvr felvétel letöltése arról a csatornáról
- ahol elérhető a visszajátszás funkció
+-új letöltő hozzáadva: >>>
+-PlayerFm (podcast)
+ magyar/angol podcastok gyűjtőhelye
+ linket megadva minden elérhető rész 
+ betöltésre kerül és a számokkal 
+ kiválasztható mi legyen letöltve
+ pl. 2 4 9-25
+ beírva: 200-300   ezzel így
+ 100 részt tölt le a listából
+ (aki minden részt letöltene arra 
+ figyeljen, hogy a 1. betöltött az a 0)
 
--verzió fesztivál
- már nincs szükség a böngészőre
- a pssh kimásolásához
- 
--új letöltő hozzáadva: DRM nélküli vod
- yt-dlp elérhető legjobb és > 720x404
- minden oldallal működik amit a yt-dlp támogat
+-Spotify (podcast)
+ ezt inkább csak akkor, ha sehol máshol
+ nem érhető el egy podcast/audio track 
+ mert nem kényelmes használni...
+ csak a firefox-ban a zöld play gombot
+ megnyomva fog működni és se az asztalin
+ se más böngésző spotify-ba nem futhat a 
+ lejátszóban semmi..
+
+-Disney+ menü kiegészítve:
+-válogató (mux nélkül)
+ egy videó felbontást lehet kiválasztani
+ a hangokból és a feliratokból
+ bármennyit be lehet x-elni
+
+-javítva: Filmbox+
+ oldal változtatás lekövetve..
