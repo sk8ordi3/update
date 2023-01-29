@@ -1,26 +1,6 @@
-v1.9.5
+v1.9.6
 
--új letöltő hozzáadva: >>>
--PlayerFm (podcast)
- magyar/angol podcastok gyűjtőhelye
- linket megadva minden elérhető rész 
- betöltésre kerül és a számokkal 
- kiválasztható mi legyen letöltve
- beírva: 200-300   ezzel így
- 100 részt tölt le a listából
- (aki minden részt letöltene arra 
- figyeljen, hogy a 1. betöltött az a 0)
--Spotify (podcast)
- ezt inkább csak akkor, ha sehol máshol
- nem érhető el egy podcast/audio track 
- mert nem kényelmes használni...
- csak a firefox-ban a zöld play gombot
- megnyomva fog működni és se az asztalin
- se más böngésző spotify-ba nem futhat a 
- lejátszóban semmi..
+-javítva: Filmbox+, HBOMAX
+ error mappa/filenév-ben
 
--Disney+ menü kiegészítve:
--válogató (mux nélkül)
-
--javítva: Filmbox+
- oldal változtatás lekövetve..
+-menüből a konzol mindig teljes képernyőre vált
