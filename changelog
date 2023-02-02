@@ -1,6 +1,11 @@
-v1.9.6
+v1.9.7
 
--javítva: Filmbox+, HBOMAX
- error mappa/filenév-ben
+-új letöltő hozzáadva: >>>>>
+-Budapesti Nemzetközi
+ Dokumentumfilm Fesztivál (BIDF)
 
--menüből a konzol mindig teljes képernyőre vált
+-javítva: 
+-Disney+ 
+ régebbi sorozatok letöltése
+ (ezekhez más fajta .m3u8 link
+   tartozik...)
