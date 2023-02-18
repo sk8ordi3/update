@@ -1,5 +1,9 @@
-v1.9.8
+v1.9.9
 
--új letöltő hozzáadva: >>>>, LIVE menübe
--Yettel TV
- (külön menüben az élő felvétel és a műsor letöltése)
+-javítva: RTL+
+ néha a pssh nincs a fájlban..
+ 
+-LIVE > Yettel TV 
+ hozzáadva, hogy x
+ idő múlva vegyen fel és, hogy 
+ mikor álljon le
