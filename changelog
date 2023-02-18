@@ -3,10 +3,13 @@ v1.9.9
 -javítva: RTL+
  néha a pssh nincs a fájlban..
  
--LIVE > Yettel TV 
+-Yettel TV LIVE
  hozzáadva, hogy x
  idő múlva vegyen fel és, hogy 
  mikor álljon le
+ 
+-Yettel TV műsor letöltés
+ auto elnevezés hozzáadva
 
 -yt-dlp frissítve ami megszünteti
  a @user_id hibát
