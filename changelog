@@ -1,15 +1,13 @@
-v1.9.9
+v2.0.0
 
--javítva: RTL+
- néha a pssh nincs a fájlban..
- 
--Yettel TV LIVE
- hozzáadva, hogy x
- idő múlva vegyen fel és, hogy 
- mikor álljon le
- 
--Yettel TV műsor letöltés
- auto elnevezés hozzáadva
+-HBOMAX
+ L1-et bannolták itt is
+ visszalakítva minden a régire...
 
--yt-dlp frissítve ami megszünteti
- az @uploader_id hibát
+-Disney+ vpn
+ alapértelmezett a HU, de aki akarja 
+ az itt tudja megváltoztatni:
+ drmfiles\programok\bin\dis_HU_or_GB.txt
+ 
+-új letöltő hozzáadva: encode: 720x404
+ Yettel TV
