@@ -1,13 +1,10 @@
-v2.0.0
+v2.0.1
 
--HBOMAX
- L1-et bannolták itt is
- visszalakítva minden a régire...
+-Netflix javítva:
+ előző verzióba bekerült egy hiba.. 
 
--Disney+ vpn
- alapértelmezett a HU, de aki akarja 
- az itt tudja megváltoztatni:
- drmfiles\programok\bin\dis_HU_or_GB.txt
- 
--új letöltő hozzáadva: encode: 720x404
- Yettel TV
+-M3.hu mtva
+ alapértelmezett a felirat letöltése, 
+ de aki akarja az itt tudja megváltoztatni
+ a nem szót beleírva:
+ Downloads\info\M3_felirat.txt
