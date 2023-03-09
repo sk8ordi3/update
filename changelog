@@ -1,10 +1,4 @@
-v2.0.1
+v2.0.2
 
--Netflix javítva:
- előző verzióba bekerült egy hiba.. 
-
--M3.hu mtva
- alapértelmezett a felirat letöltése, 
- de aki akarja az itt tudja megváltoztatni
- a nem szót beleírva:
- Downloads\info\M3_felirat.txt
+-új letöltő hozzáadva: >>>>
+ Arena4+
