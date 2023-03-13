@@ -1,16 +1,10 @@
-v2.0.4
+v2.0.5
 
--új letöltő hozzáadva: >>>>
- Japanese Film Festival
+-ismét elérhető a HBOMAX 1080p/4K
+ biztos, hogy nem sokáig...
 
--új letöltő hozzáadva: DRM nélküli vod
- 09 yt-dlp + aria2c_hls
- (m3u8-at választ http helyett
-  a gyorsabb letöltés miatt)
- yt-dlp-vel támogatott oldalaknál erre 
- akkor van szükség mikor alapból
- elérhető a http és az m3u8 forrás is 
- http-ről való letöltést egyből 
- korlátozzák, de ezzel így mindenképp 
- az m3u8 forrás lesz kiválasztva
- ilyen pl. a dailymotion
+javítva: 
+- Arena4+
+  először a firefox-ban keres, ha 
+  nincs token (vagy lejárt) 
+  akkor a chrome-ban..
