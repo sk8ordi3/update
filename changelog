@@ -1,10 +1,16 @@
-v2.0.5
+v2.0.6
 
--ismét elérhető a HBOMAX 1080p/4K
- biztos, hogy nem sokáig...
+-új letöltő hozzáadva: >>>>>
+ Tv2Play prémium
+ konzolban egyszer kéri az 
+ e-mail és jelszót amjd itt
+ tárolódik: Downloads\info
+ a régebbi letöltőt is meghagytam, de
+ akinek hibát jelzett az használja ezt..
 
-javítva: 
-- Arena4+
-  először a firefox-ban keres, ha 
-  nincs token (vagy lejárt) 
-  akkor a chrome-ban..
+-Arena4+
+ már csak chrome-ból olvas cookie-t..
+ ha nem chrome-ba vagy bejelentkezve
+ akkor nem fog működni
+ viszonylag hamar lejár a token
+ letöltés előtt érdemes bejelentkezni
