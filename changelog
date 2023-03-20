@@ -1,16 +1,20 @@
-v2.0.6
+v2.0.7
 
--új letöltő hozzáadva: >>>>>
- Tv2Play prémium
- konzolban egyszer kéri az 
- e-mail és jelszót amjd itt
- tárolódik: Downloads\info
- a régebbi letöltőt is meghagytam, de
- akinek hibát jelzett az használja ezt..
+-protobuf re-build miatt
+ mindenképpen szükséges a
+ hianyzo-modulok 01.bat
+ futtatása itt található:
+ drmfiles\programok\hianyzo-modulok
+-ezzel így minden korábbi drm verzió
+ működésképtelen lesz, viszont a 
+ jövőben nem lesz több protobuf error
+ ami már több mint 1 éve jelen van...
 
--Arena4+
- már csak chrome-ból olvas cookie-t..
- ha nem chrome-ba vagy bejelentkezve
- akkor nem fog működni
- viszonylag hamar lejár a token
- letöltés előtt érdemes bejelentkezni
+-Arena4+ 
+ firefox visszahozva..
+
+-sweet.tv > LIVE
+ élő felvétel: 1080p hozzáadva
+
+-NFI - filmarchiv.hu - videotorium
+ letöltési link kereső
