@@ -1,20 +1,34 @@
-v2.0.7
+v2.0.8
 
--protobuf re-build miatt
- mindenképpen szükséges a
- hianyzo-modulok 01.bat
- futtatása itt található:
- drmfiles\programok\hianyzo-modulok
--ezzel így minden korábbi drm verzió
- működésképtelen lesz, viszont a 
- jövőben nem lesz több protobuf error
- ami már több mint 1 éve jelen van...
+-új letöltő hozzáadva: Ctrl+5
+-Skyshowtime
+ 
+ !!aki használni akarja az mindenképpen
+ futtassa le ezt: hianyzo-modulok 01.bat 
+ itt található: 
+ drmfiles\programok\hianyzo-modulok\
+ 
+ először a firefox-ba kell 
+ bejelentkezni mert onnan szedi össze
+ a szükséges adatot, csak egyszer fut 
+ le majd tárolja a Downloads\info mappába
+ amíg onnan nincsen törölve
+ addig nem fut le többször..
+ 
+ azt a linket kell megadni amikor már
+ elindult a videó
+ 
+ feliratokkal vannak gondok, így egyenlőre
+ azok nem töltődnek le..
+ 
+-új letöltő hozzáadva: Ctrl+5
+-Podcasters (spotify)
+ linkből:
+ https://podcasters.spotify.com.......
+ vagy listázásból ilyenkor kiválasztható,
+ hogy mit töltsön le
+ pl. 2 4 9-25, vagy all (mindent)
 
--Arena4+ 
- firefox visszahozva..
-
--sweet.tv > LIVE
- élő felvétel: 1080p hozzáadva
-
--NFI - filmarchiv.hu - videotorium
- letöltési link kereső
+-NFI - videotorium
+ a teljes kategóriát letölti majd készül
+ html fájl is belőle, hogy átláthatóbb legyen
