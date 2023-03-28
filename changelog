@@ -1,27 +1,14 @@
-v2.0.8 - v2.0.9
-Skyshowtime hanghiba elkerülése
-miatt minden hu-en hang letöltésre kerül
+v2.1.0
 
--új letöltő hozzáadva: Ctrl+5
 -Skyshowtime
- !!aki használni akarja az mindenképpen
- futtassa le ezt: hianyzo-modulok 01.bat 
- itt található: 
- drmfiles\programok\hianyzo-modulok\
--először a firefox-ba kell 
- bejelentkezni mert onnan szedi össze
- a szükséges adatot, csak egyszer fut 
- le majd tárolja a Downloads\info mappába
- amíg onnan nincsen törölve
- addig nem fut le többször..
--azt a linket kell megadni amikor már
- elindult a videó
--feliratokkal vannak gondok, így egyenlőre
- azok nem töltődnek le..
+ felirat letöltések hozzáadva
+ ezeket keresi:
+ hu, forced-hu, en, forced-en
  
--új letöltő hozzáadva: Ctrl+5
--Podcasters (spotify)
+ válogató-ba is letöltésre 
+ kerülnek a feliratok, külön 
+ ne [x]-eld be a feliratokat 
+ mert azok hibásak lehetnek..
 
--NFI - videotorium
- a teljes kategóriát letölti majd készül
- html fájl is belőle, hogy átláthatóbb legyen
+-javítva: filmeknél az évet 
+ nem mindig tartalmazta..
