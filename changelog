@@ -6,18 +6,15 @@ v2.0.8
  futtassa le ezt: hianyzo-modulok 01.bat 
  itt található: 
  drmfiles\programok\hianyzo-modulok\
- 
- először a firefox-ba kell 
+-először a firefox-ba kell 
  bejelentkezni mert onnan szedi össze
  a szükséges adatot, csak egyszer fut 
  le majd tárolja a Downloads\info mappába
  amíg onnan nincsen törölve
  addig nem fut le többször..
- 
- azt a linket kell megadni amikor már
+-azt a linket kell megadni amikor már
  elindult a videó
- 
- feliratokkal vannak gondok, így egyenlőre
+-feliratokkal vannak gondok, így egyenlőre
  azok nem töltődnek le..
  
 -új letöltő hozzáadva: Ctrl+5
