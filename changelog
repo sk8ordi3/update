@@ -1,14 +1,17 @@
-v2.1.0
+v2.1.1
 
 -Skyshowtime
- felirat letöltések hozzáadva
- ezeket keresi:
- hu, forced-hu, en, forced-en
- 
- válogató-ba is letöltésre 
- kerülnek a feliratok, külön 
- ne [x]-eld be a feliratokat 
- mert azok hibásak lehetnek..
+ lettek sima és dual audio menük..
 
--javítva: filmeknél az évet 
- nem mindig tartalmazta..
+-hozzáadva: encode: 720x404
+ elérhető legjobb és > 720x404
+ (1080p is megmarad)
+
+-hozzátartozó modul hibák javítva:
+ akinek még mindig gondja lenne a 
+ letöltéssel az futtassa le ezt: 
+ hianyzo-modulok 01.bat
+ itt található : 
+ drmfiles\programok\hianyzo-modulok\
+
+-konzol error-ok javítva
