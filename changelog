@@ -1,17 +1,19 @@
-v2.1.1
+v2.1.2
 
 -Skyshowtime
- lettek sima és dual audio menük..
+ Ctrl + 5 menüből átpakolva Ctrl + 6-ba
 
--hozzáadva: encode: 720x404
- elérhető legjobb és > 720x404
- (1080p is megmarad)
-
--hozzátartozó modul hibák javítva:
- akinek még mindig gondja lenne a 
- letöltéssel az futtassa le ezt: 
- hianyzo-modulok 01.bat
- itt található : 
- drmfiles\programok\hianyzo-modulok\
-
--konzol error-ok javítva
+-hozzáadva: Csak sorozatokhoz!
+ pl. ha a sorozat 3. video linkje
+ van megadva akkor onnantól
+ letölti a teljes sorozatot
+ az encode: 720x404-ben lévő is így működik
+-sorozat/film video link kibontó: Ctrl + 6
+ a skyshowtime oldalon lévő képek linkjéből 
+ készít sorozat rész/film videó linket 
+ amit a különböző menükbe lehet majd
+ újraindítás után megadni 
+ itt nincs letöltés...
+ ez csak információt ad a videó linkről
+ mikor került fel a rész/film és, hogy 
+ van-e hozzá magyar hang
