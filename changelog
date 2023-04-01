@@ -1,18 +1,22 @@
-v2.1.2
+v2.1.3
 
+-új letöltő hozzáadva: Ctrl+5
+-Scream!
+ konzol bekéri az e-mail-t és
+ a jelszót majd itt tárolódik:
+ Downloads\info\scream_login.txt
+-hozzáadva: mux nélkül menübe
+-hozzáadva: 720x404 menübe
+ 
 -Skyshowtime
- Ctrl + 5 menüből átpakolva Ctrl + 6-ba
--hozzáadva: Csak sorozatokhoz!
- pl. ha a sorozat 3. video linkje
- van megadva akkor onnantól
- letölti a teljes sorozatot
- az encode: 720x404-ben lévő is így működik
--sorozat/film video link kibontó: Ctrl + 6
- a skyshowtime oldalon lévő képek linkjéből 
- készít sorozat rész/film videó linket 
- amit a különböző menükbe lehet majd
- újraindítás után megadni 
- itt nincs letöltés...
- ez csak információt ad a videó linkről
- mikor került fel a rész/film és, hogy 
- van-e hozzá magyar hang
+-link kibontó:
+ sorozatnál a hiányzó rész kiírása
+-hozzáadva: mux nélkül menübe
+ válogató (mux nélkül)
+
+-f1 TV formula1
+ hozzáadva:
+ elérhető legjobb +felirat menü
+ 
+-di-fi
+ arl frissítve
