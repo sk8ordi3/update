@@ -1,20 +1,12 @@
-v2.1.4
-
--az egeret rávíve egy menüre kiírja
- hogy milyen almenük vannak benne
-
--Skyshowtime
- 5-6 nap után a token működésképtelen 
- lesz, emiatt 5 nap után törlődik és
- a firefox-al lekér egy újat
--akinek külföldi acc van az
- ebbe a fájlba írja át a "két kódos"
- országkódját, alapértelmezett a HU.. 
- Downloads\info\Skyshowtime\sky_country.txt 
-
--új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
--filmpapa(+felirat)
+v2.1.5
 
 -új letöltő hozzáadva: Ctrl+6
--Videoland (NL)
+-Royal Opera House 
+ (reg nélkül is működik)
+ 
+-javítva: 
+ Infinity+ 
+ 
+-új letöltő hozzáadva: DRM nélküli vod
+ 06 yt-dlp Unsupported URL
+-waaw(+felirat)
