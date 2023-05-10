@@ -1,4 +1,17 @@
-v2.1.9
+v2.2.0
 
--javítva: 
+javítva:
+ Netflix
+ hyper modul kelleni fog hozzá
+ cmd ablakba:
+ pip uninstall httpx -y
+ pip install hyper
+ vagy ezt lefuttatni:
+ drmfiles\programok\hianyzo-modulok\
+ hianyzo-modulok 02
+
+javítva:
  DirectOne
+ 02-es menü a több órás tartalmakhoz ahol 
+ min 2, de inkább 4-5 videó és audió 
+ tartozik egy tartalomhoz..
