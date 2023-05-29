@@ -1,17 +1,8 @@
-v2.2.0
+v2.2.1
 
-javítva:
- Netflix
- hyper modul kelleni fog hozzá
- cmd ablakba:
- pip uninstall httpx -y
- pip install hyper
- vagy ezt lefuttatni:
- drmfiles\programok\hianyzo-modulok\
- hianyzo-modulok 02
+-javítva:
+ Yettel TV
+ mindigtv-filmio
 
-javítva:
- DirectOne
- 02-es menü a több órás tartalmakhoz ahol 
- min 2, de inkább 4-5 videó és audió 
- tartozik egy tartalomhoz..
+-új letöltő hozzáadva: Ctrl + 7
+ rögzített felvételek letöltése (Yettel TV)
