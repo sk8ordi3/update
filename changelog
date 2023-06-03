@@ -1,8 +1,9 @@
-v2.2.1
+v2.2.2
 
--javítva:
- Yettel TV
- mindigtv-filmio
+-új letöltő hozzáadva: Csak sorozatokhoz!, Mux nélkül
+ Disney+ 1080p
+ kulcs "keresése" (újabb tartalmakhoz nem lesz kulcs!)
+ error üzenet jelezni fogja, ha nem található..
 
 -új letöltő hozzáadva: Ctrl + 7
- rögzített felvételek letöltése (Yettel TV)
+ TvNow.de (free)
