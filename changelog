@@ -1,9 +1,11 @@
-v2.2.2
+v2.2.3
 
--új letöltő hozzáadva: Csak sorozatokhoz!, Mux nélkül
- Disney+ 1080p
- kulcs "keresése" (újabb tartalmakhoz nem lesz kulcs!)
- error üzenet jelezni fogja, ha nem található..
+-új letöltő hozzáadva: Ctrl + 4
+ Arena4+
+ 05 ha a 03/04 menü error-t dobna
+ (van pár problémás link azokat ez 
+  a menü fogja tudni letölteni)
 
--új letöltő hozzáadva: Ctrl + 7
- TvNow.de (free)
+-új letöltő hozzáadva: DRM nélküli vod
+ 06 yt-dlp Unsupported URL
+-eurosport.hu
