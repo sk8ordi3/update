@@ -1,11 +1,7 @@
-v2.2.3
+v2.2.4
 
--új letöltő hozzáadva: Ctrl + 4
- Arena4+
- 05 ha a 03/04 menü error-t dobna
- (van pár problémás link azokat ez 
-  a menü fogja tudni letölteni)
-
--új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
--eurosport.hu
+javítva: Ctrl + 1
+-THE CRITERION CHANNEL
+ oldal változtatás lekövetve..
+ már nincs szükség az enter használatára
+ auto keresi az adatokat..
