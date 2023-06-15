@@ -1,7 +1,14 @@
-v2.2.4
+v2.2.5
 
-javítva: Ctrl + 1
--THE CRITERION CHANNEL
- oldal változtatás lekövetve..
- már nincs szükség az enter használatára
- auto keresi az adatokat..
+új letöltő hozzáadva: 08 Netflix
+-film, sorozat audio választó
+ egy ideig ellenőrzésképpen kékkel kiírva
+ az elérhető hangsávok neve
+ majd a számokkal ki lehet 
+ választani az elérhetőt
+ (ez nem egy kényelmes megoldás, 
+ hogy ki kell választani a nyelvezetet is 
+ így csak akkor érdemes használni, ha nincs 
+ hu vagy en egy adott tartalomnál..)
+-netflix mux nélküli menük áttéve a
+ főoldalon lévőbe..
