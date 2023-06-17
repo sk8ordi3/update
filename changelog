@@ -1,14 +1,26 @@
-v2.2.5
+v2.2.6
 
-új letöltő hozzáadva: 08 Netflix
--film, sorozat audio választó
- egy ideig ellenőrzésképpen kékkel kiírva
- az elérhető hangsávok neve
- majd a számokkal ki lehet 
- választani az elérhetőt
- (ez nem egy kényelmes megoldás, 
- hogy ki kell választani a nyelvezetet is 
- így csak akkor érdemes használni, ha nincs 
- hu vagy en egy adott tartalomnál..)
--netflix mux nélkül menük áttéve a
- főoldalon lévőbe..
+-új menü hozzáadva: Beállítások
+ az eddig is használt alapértelmezett 
+ beállításokat adtam meg, így aki eddig 
+ se változtatott a külső .txt fájlokban
+ nem kell piszkálnia..
+ beállítások:
+-720x404 encode-oláshoz a cfr számát
+-Disney+ kétbetűs régió kódját
+-véglegesen elkészült fájl kiterjesztését
+-feliratok igen | nem
+ skyshowtime-hoz
+ M3.hu-hoz
+
+-aki mindig megtartja a Downloads mappát
+ ezekre a fájlokra már nincs szükség:
+ Downloads\info\cfr_num.txt
+ Downloads\info\ext.txt
+ Downloads\info\M3_felirat.txt
+
+-új letöltő hozzáadva: DRM nélküli vod
+ 06 yt-dlp Unsupported URL
+ m4uhd.tv
+ videa.hu(+felirat)
+ indavideo.hu
