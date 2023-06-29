@@ -4,16 +4,16 @@ v2.2.7
  Amazon prime [SD] 480p
  a ripper-t adtam hozzá, mivel eléggé zárt 
  és méretben is nagy emiatt kiegészítőként 
- külön letölthető lett AMZN v1.7z néven
+-külön letölthető lett AMZN v1.7z néven
  kicsomagolva, ide kell tenni:
  Downloads\info\
- 
- firefox-ba bejelentkezni a prime-ba, majd a
+-hiányzó modulok futtatása:
+ drmfiles\programok\hianyzo-modulok\
+ hianyzo-modulok 04 csak_az_amazonhoz_kell.bat
+-firefox-ba bejelentkezni a prime-ba, majd a
  tabokat bezárva bezáródik a firefox is
- első használatkor a drm programot indítva 
- bármelyik amazonos menü összeszedi 
- majd a szükséges cookie-kat..
- 
+ drm program indítása..
+
  film, sorozat, mux nélküli, válogató..stb 
  menük hozzáadva
  
