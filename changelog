@@ -1,26 +1,29 @@
-v2.2.6
+v2.2.7
 
--új menü hozzáadva: Beállítások
- az eddig is használt alapértelmezett 
- beállításokat adtam meg, így aki eddig 
- se változtatott a külső .txt fájlokban
- nem kell piszkálnia..
- beállítások:
--720x404 encode-oláshoz a cfr számát
--Disney+ kétbetűs régió kódját
--véglegesen elkészült fájl kiterjesztését
--feliratok igen | nem
- skyshowtime-hoz
- M3.hu-hoz
+-új letöltő hozzáadva: Ctrl + 8
+ Amazon prime [SD] 480p
+ a ripper-t adtam hozzá, mivel eléggé zárt 
+ és méretben is nagy emiatt kiegészítőként 
+ külön letölthető lett AMZN v1.7z néven
+ kicsomagolva, ide kell tenni:
+ Downloads\info\
+ 
+ firefox-ba bejelentkezni a prime-ba, majd a
+ tabokat bezárva bezáródik a firefox is
+ első használatkor a drm programot indítva 
+ bármelyik amazonos menü összeszedi 
+ majd a szükséges cookie-kat..
+ 
+ film, sorozat, mux nélküli..stb menük
+ hozzáadva
+ 
+ teljes évad letöltése: sorozat rész linket
+ kell hozzá megadni és az betölti az egész
+ évadot, majd pl. megadva 1-22 letölti az
+ összes részt..
 
--aki mindig megtartja a Downloads mappát
- ezekre a fájlokra már nincs szükség:
- Downloads\info\cfr_num.txt
- Downloads\info\ext.txt
- Downloads\info\M3_felirat.txt
+-javítva: Netflix
+ regex error..
 
--új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
- m4uhd.tv
- videa.hu(+felirat)
- indavideo.hu
+-javítva: RTL+
+ ssl error
