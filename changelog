@@ -1,29 +1,21 @@
-v2.2.7
+v2.2.8
 
--új letöltő hozzáadva: Ctrl + 8
- Amazon prime [SD] 480p
- a ripper-t adtam hozzá, mivel eléggé zárt 
- és méretben is nagy emiatt kiegészítőként 
--külön letölthető lett AMZN v1.7z néven
- kicsomagolva, ide kell tenni:
- Downloads\info\
--hiányzó modulok futtatása:
- drmfiles\programok\hianyzo-modulok\
- hianyzo-modulok 04 csak_az_amazonhoz_kell.bat
--firefox-ba bejelentkezni a prime-ba, majd a
- tabokat bezárva bezáródik a firefox is
- drm program indítása..
-
- film, sorozat, mux nélküli, válogató..stb 
- menük hozzáadva
+-a Ctrl + letöltőket összevontam 
+ és kapott mindegyik logót is
  
- teljes évad letöltése: sorozat rész linket
- kell hozzá megadni és az betölti az egész
- évadot, majd pl. megadva 1-22 letölti az
- összes részt..
+-ITsART letöltőt kiszedtem mivel 
+ az oldal már nem létezik...
 
--javítva: Netflix
- regex error..
+-di-fi arl frissítve
+-yt-dlp frissítve 
+ (Cookie szivárgás miatt..)
 
--javítva: RTL+
- ssl error
+-beállításokban a feliratokhoz:
+ 3 "kapcsoló" lett
+ igen | nem | forced
+ skyshowtime, Disney+, HBOMAX
+ mindenhol alap az igen...
+ netflix, amazonnál csak az
+ igen | nem működik mivel nincs
+ külön opció a forced-re...
+ (legalábbis nem működik)
