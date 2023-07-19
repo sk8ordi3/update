@@ -7,3 +7,8 @@ v2.2.9
  -HBOMAX
  az epizód link helyett ide
  a sorozat link kell!
+
+pillow modul kelleni fog hozzá:
+pip install Pillow
+vagy:
+hianyzo-modulok 01.bat
