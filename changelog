@@ -1,21 +1,9 @@
-v2.2.8
+v2.2.9
 
--a Ctrl + letöltőket összevontam 
- és kapott mindegyik logót is
- 
--ITsART letöltőt kiszedtem mivel 
- az oldal már nem létezik...
-
--di-fi arl frissítve
--yt-dlp frissítve 
- (Cookie szivárgás miatt..)
-
--beállításokban a feliratokhoz:
- 3 "kapcsoló" lett
- igen | nem | forced
- skyshowtime, Disney+, HBOMAX
- mindenhol alap az igen...
- netflix, amazonnál csak az
- igen | nem működik mivel nincs
- külön opció a forced-re...
- (legalábbis nem működik)
+-új letöltő hozzáadva: Csak sorozatokhoz!
+ évad/epizódok választó:
+ -Skyshowtime
+ -Disney+
+ -HBOMAX
+ az epizód link helyett ide
+ a sorozat link kell!
