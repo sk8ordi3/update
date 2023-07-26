@@ -1,14 +1,19 @@
-v2.2.9
+v2.3.0
 
 -új letöltő hozzáadva: Csak sorozatokhoz!
  évad/epizódok választó:
- -Skyshowtime
- -Disney+
- -HBOMAX
- az epizód link helyett ide
- a sorozat link kell!
+ -Netflix
+  hangot és feliratot
+  forced-et is lehet választani
+ -ezzel így megkerülve, a korlátozást amit
+  a netflix bevezetett és így nem probléma
+  egybe leszedni akár 10 évadot..
 
-pillow modul kelleni fog hozzá:
-pip install Pillow
-vagy:
-hianyzo-modulok 01.bat
+új letöltő hozzáadva: DRM nélküli vod 06
+ medici.tv (+feliratok)
+
+-javítva: HBOMAX
+ évad választó
+
+-javítva: NAVA
+ listázás
