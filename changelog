@@ -1,20 +1,7 @@
-v2.3.0
+v2.3.1
 
--új letöltő hozzáadva: Csak sorozatokhoz!
- évad/epizódok választó:
- -Netflix
-  hangot és feliratot, forced-et is lehet választani
- -ezzel így megkerülve, a korlátozást amit
-  a netflix bevezetett és így nem probléma
-  egybe leszedni akár 10 évadot..
+-javítva: 06 yt-dlp Unsupported URL
 
-új letöltő hozzáadva: DRM nélküli vod 06
- medici.tv (+feliratok)
- (e-mail, jelszót kér egyszer és ide tárolódik:
-  Downloads\info\medici_login.txt)
-
--javítva: HBOMAX
- évad választó
-
--javítva: NAVA
- listázás
+-medici.tv (+feliratok)
+ 06 yt-dlp Unsupported URL-ból 
+ áttéve ide: Ctrl + 4
