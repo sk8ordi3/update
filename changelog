@@ -1,20 +1,17 @@
-v2.3.2
+v2.3.3
 
--RTL + (ingyenes, szolgáltatós, plusz)
-  mostantól minden fajta letöltő 
-  e-mail, jelszót kér egyszer és ide tárolódik:
-  Downloads\info\rtl_plusz_login.txt
-  így megszűnt az, hogy 3-4 naponta kell új token
-  erre a fájlra nincs már szükség:
-  Downloads\info\acc-RTL-Most-info.json
+-javítva: 
+  LIVE 1
+  TelekomTVGO élő adásból visszatöltés
+  (elvileg ez már mindenkinél működni fog)
 
--Arena4+
-  01 és a 02-es is már kezeli az eddig néha
-  előforduló "hibás" linkeket
-  (ha mégis lenne amit csak a 03-as tud letölteni
-   azt a linket küldjétek el...)
-
--új letöltő hozzáadva: DRM nélküli vod 06
-  fox.com.tr (+felirat)
+-javítva: 
+  Ctrl + 2
+  Japanese Film Festival 
   
--javítva: TelekomTVGO élő adásból visszatöltés
+  (L3-al már nincsen lehetőség a 720p/1080p-re
+   idén a felirat most nincs ráégetve a videóra
+   emiatt az összes elérhető felirat letöltődik)
+
+  japán film feszt:
+  https://jff.jpf.go.jp/watch/ic2023/films/
