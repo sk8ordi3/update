@@ -1,9 +1,4 @@
-v2.3.4
+v2.3.5
 
--Netflix évad/epizód választó:
-  kibővítve: 2.0, 5.1, 
-             aac, eac3(DD+)
-  (alapból maradt az 5.1, eac3)			 
-
--javítva: LIVE 1 > sweet.tv
-  05 élő adás felvétele
+-bővítve: CTRL + 2 > sweet.tv
+  03 felbontás, audio, felirat választó
