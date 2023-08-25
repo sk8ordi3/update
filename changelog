@@ -1,5 +1,10 @@
-v2.3.5
+v2.3.6
 
--bővítve: CTRL + 2 > sweet.tv
-  03 felbontás, audio, felirat választó
-  kupon/promó kód: 2023
+-HBOMAX
+ újra van L1 
+ 1080p lett az alapértelmezett
+ 4K DV hozzáadva
+
+-javítva: RTL Most+
+ loginban a spec karakterek
+ támogatása..
