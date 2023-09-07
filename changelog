@@ -1,15 +1,24 @@
-v2.3.6
+-új letöltők hozzáadva: EXT_dl
+ Netflix 1080p, 720p
+ Amazon 1080p, 720p, SD
+ Apple TV+ SD
+ 
+ 01. ext_dl_v1.9.7z
+ ide kell betenni kicsomagolva az 
+ ext_dl mappát: Downloads\info\
+ (ahogy mappázva is van..)
+ 
+ 02. install file: install_ext_dl.py (dupla klikk)
+ drmfiles\programok\hianyzo-modulok\install_ext_dl.py
+ feltelepül...
 
--HBOMAX
- újra van L1 
- 1080p lett az alapértelmezett
- 4K DV hozzáadva
+ 03. elindítva a drm programot jobb fent
+ EXT_DL menü 
+ (sütik a firefoxból jönnek oda kell bejelentkezni..)
 
--új letöltő hozzáadva: VPN
- ide kerülnek azok a letöltők
- amik nem működnek magyar ip-vel..
- Youtube TV movies and series 
- (USA ip/vpn kell hozzá)
+-Drm nélküli vod > 06 unsupported ...
+ m4sport.hu javítva
+ mediaklikk.hu hozzáadva
 
--javítva: RTL Most+
- loginban a spec karakterek támogatása..
+- d-fi > Zene
+ FLAC loseless minőség lett az alapértelmezett
