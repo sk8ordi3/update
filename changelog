@@ -1,13 +1,10 @@
-v2.3.8
+v2.3.9
 
--új letöltő hozzáadva: VPN
- Plex TV movies and series 
- (USA ip/vpn kell hozzá)
- 
--javítva: sweet.tv
- nemrég bekerült ingyenes filmek letöltése
+-javítva: LIVE 1 > TelekomTVGO
+ élő adásból visszatöltés
 
--új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
--mindjart.megnezed (netmozi.com)
- waaw.ac/waaw.to linkek (+felirat)
+-javítva: EXT_DL
+ mentett release név beolvasása 
+
+-javítva: mux nélküli > HBOMAX
+ válogató
