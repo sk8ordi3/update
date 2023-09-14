@@ -1,10 +1,7 @@
-v2.3.9
+v2.4.0
 
--javítva: LIVE 1 > TelekomTVGO
- élő adásból visszatöltés
-
--javítva: EXT_DL
- mentett release név beolvasása 
-
--javítva: mux nélküli > HBOMAX
- válogató
+-új letöltő hozzáadva: DRM nélküli vod
+ 06 yt-dlp Unsupported URL
+-mixcloud.com
+ elérhető legjobb lesz letöltve
+ .m4a formátumban
