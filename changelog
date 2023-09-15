@@ -1,5 +1,7 @@
 v2.4.1
  
 -javítva: ext_dl
- aki nem haználja
+ aki nem haználja vagy nincs problémája 
+ amikor a release nevet olvasná be
+ (speciális karakterek..)
  annak felesleges frissítenie..
