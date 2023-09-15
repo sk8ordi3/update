@@ -1,7 +1,5 @@
-v2.4.0
-
--új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
--mixcloud.com
- elérhető legjobb lesz letöltve
- .m4a formátumban
+v2.4.1
+ 
+-javítva: ext_dl
+ aki nem haználja
+ annak felesleges frissítenie..
