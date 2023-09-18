@@ -1,7 +1,8 @@
-v2.4.1
- 
--javítva: ext_dl
- aki nem haználja vagy nincs problémája 
- amikor a release nevet olvasná be
- (speciális karakterek..)
- annak felesleges frissítenie..
+v2.4.2
+
+-d-fi arl frissítve
+
+-Beállításokhoz hozzáadva: d-fi minőség
+ 128 | 320 | FLAC
+ alapértelmezett a FLAC
+ mindenki arra írja át amire akarja..
