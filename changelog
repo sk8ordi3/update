@@ -1,8 +1,19 @@
-v2.4.2
+v2.4.3
 
--d-fi arl frissítve
+-új letöltő hozzáadva: LIVE1
+ TelekomTVGO v2 élő adásból visszatöltés 
+ annyiban tér el az 1. verziótól, hogy ebbe már
+ ki lehet választani, a csatornát, melyik napon, 
+ melyik műsor legyen letöltve a konzolból
+ (mivel egy nap lehet akár 100 program is emiatt 
+  egy kereső lett, itt kell tudni a sorozat/film
+  nevét ezzel szűrve a napi programokat..)
+  stabilabbnak mondható, mint a v1, de itt is
+  lehetnek problémák a túl sok adat bekérés miatt..
 
--Beállításokhoz hozzáadva: d-fi minőség
- 128 | 320 | FLAC
- alapértelmezett a FLAC
- mindenki arra írja át amire akarja..
+-új letöltő hozzáadva: DRM nélküli vod
+ 06 yt-dlp Unsupported URL
+-sportal.blikk.hu
+-facebook zárt csoportban lévő videó letöltése
+  (a face érzékelni fogja, hogy letöltés zajlik
+   emiatt a sebességet auto korlátozzák..)
