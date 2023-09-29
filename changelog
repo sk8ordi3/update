@@ -20,5 +20,7 @@ v2.4.4
 -új letöltő hozzáadva: DRM nélküli vod
  06 yt-dlp Unsupported URL
 -arcanum.com "képes" adatbázisból letöltés
- (firefox bejelentkezés kell a session_id miatt)
+ (firefox bejelentkezés kell a session_id miatt
+ emiatt az 1. használathoz ki kell jelentkezni a 
+ többi böngészőből)
  1-2 napig még ingyenes a reg..
