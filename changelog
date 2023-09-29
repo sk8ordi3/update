@@ -21,5 +21,6 @@ v2.4.4
  06 yt-dlp Unsupported URL
 -arcanum.com "képes" adatbázisból letöltés
  sessionid kell hozzá ami a 
- dev menüből könnyen kinézhető
+ dev menüből könnyen kinézhető.. itt tárolódik:
+ Downloads\info\arcanum_session.txt
  1-2 napig még ingyenes a reg..
