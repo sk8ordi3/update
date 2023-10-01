@@ -1,26 +1,4 @@
-v2.4.4
+v2.4.5
 
- javítva:
--M3.hu MTVA
- (több minden is változott..
-  aki szokta használni mindenképpen frissítsen!)
- 
--v1, v2 TelekomTVGO élő adásból visszatöltés
- (oldalváltozás lekövetve)
- v2 verzióhoz..:
- pl. 
-   9 - TV2
- 991 - TV2 HD
- ha a 991 nálad nem HD-ba tölt le akkor
- a csatornalistába nem kell nézned, hogy valami HD 
- szerepeljen a csatorna nevében
- a sima 9 - TV2 már HD-ba fogja leszedni
- ez a "logika" minden csatornára érvényes lesz..
- 
--új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
--arcanum.com "képes" adatbázisból letöltés
- sessionid kell hozzá ami a 
- dev menüből könnyen kinézhető.. itt tárolódik:
- Downloads\info\arcanum_session.txt
- 1-2 napig még ingyenes a reg..
+ javítva: M3, NAVA Listázás
+-M3.hu MTVA (felirat)
