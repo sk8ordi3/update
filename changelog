@@ -1,4 +1,26 @@
-v2.4.5
+v2.4.6
 
- javítva: M3, NAVA Listázás
--M3.hu MTVA (felirat)
+--új letöltő hozzáadva: NAVA > 02 kereső
+ az oldalon lévő keresőt építettem fel
+ arra kell figyelni, hogy 60.000
+ találat alatt kell maradni
+ ehhez minden szűrő adott..
+-ha talál szalagon lévő felvételt
+ azt kikéri és az adatai bekerül ebbe a 
+ fájlba: !szalagon.txt
+ Downloads\befejezett\NAVA\kereső\
+-ha valami rádió, abból csak a vágott 
+ lesz mentve, mp3 formátumba
+-bármi ami már le lett töltve azon átugrik
+-ha a címben talál: hirdetés, ajánló, reklám
+ szó valamelyikét ezek mind külön mappába 
+ töltődnek, hogy ne keveredjenek..
+-mivel blokkolva van, hogy folyamatosan le 
+ lehessen tölteni, ha elakadna akkor 
+ 35mp után újrapróbálja..
+--új letöltő hozzáadva: DRM nélküli vod
+ yt-dlp frissítése
+ ha elérhető egy új verzió akkor frissít
+ majd lehet újra választani a menük közül
+--javítva: VPN > Youtube TV movies and series
+--javítva: Direct One > archive részleg
