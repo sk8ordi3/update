@@ -1,28 +1,20 @@
-v2.4.6
+v2.4.7
 
---új letöltő hozzáadva: NAVA > 02 kereső
- az oldalon lévő keresőt építettem fel
- arra kell figyelni, hogy 60.000 találat alatt kell 
- maradni, ehhez minden szűrő adott..
--ha talál szalagon lévő felvételt azt kikéri és az
- adatai bekerül ebbe a fájlba: !szalagon.txt
- Downloads\befejezett\NAVA\!kereső\
--ha valami rádió, abból csak a vágott 
- lesz mentve, mp3 formátumba
--bármi ami már le lett töltve azon átugrik
--ha a címben talál: hirdetés, ajánló, reklám
- szó valamelyikét ezek mind külön mappába 
- töltődnek, hogy ne keveredjenek..
--mivel blokkolva van, hogy folyamatosan le 
- lehessen tölteni, ha elakadna akkor 
- 35mp után újrapróbálja..
--ha valami nem létezik (csak az adatlap) 
- akkor megy a következőre..
--mivel gyűjtögetőknek készült így minden letöltött
- tartalomhoz a teljes adatlap is le lesz töltve
---új letöltő hozzáadva: DRM nélküli vod
- yt-dlp frissítése
- ha elérhető egy új verzió akkor frissít
- majd lehet újra választani a menük közül
---javítva: VPN > Youtube TV movies and series
---javítva: Direct One
+--EXT_DL > Netflix
+-pár napja már nincs 720p és 1080p
+ a menük egyenlőre maradnak..
+-ext_dl féle SD bekerült ide:
+ EXT_DL > 01 Netflix > 11 SD
+
+--új letöltő hozzáadva: Ctrl + 4
+-Filmin.es
+-reveel.net
+
+--javítva: NAVA kereső
+-keresővel talált szalagon lévő 
+ felvételek letöltése
+-403-as error javítva
+ (emiatt már nem jön be
+  az újrapróbálkozás rész..)
+-Beállításokban: igen | nem
+ + opció minden mp3-ba (alap: nem)
