@@ -1,21 +1,26 @@
-v2.4.7
+ext_dl v2.1
 
---EXT_DL > Netflix
--pár napja már nincs 720p és 1080p
- a menük egyenlőre maradnak..
--ext_dl féle SD bekerült ide:
- EXT_DL > 01 Netflix > 11 SD
+--EXT_DL > Netflix javítva
+-ismét van 720p és 1080p
 
---új letöltő hozzáadva: Ctrl + 4
--Filmin.es
--reveel.net
- (user/pass)
+--EXT_DL > AMAZON Freevee
+ (német ip kell hozzá)
 
---javítva: NAVA kereső
--keresővel talált szalagon lévő 
- felvételek letöltése
--403-as error javítva
- (emiatt már nem jön be
-  az újrapróbálkozás rész..)
--Beállításokban: igen | nem
- + opció minden mp3-ba (alap: nem)
+-ext_dl telepítése:
+ 01.
+ a teljes meglévő ext_dl mappa törlése:
+ Downloads\info\ext_dl
+ 02.
+ kicsomagolva a ext_dl_v2.1.7z -t
+ ide kell tenni: (így is van mappázva)
+ Downloads\info\ext_dl
+ 03. 
+ install:
+ drmfiles\programok\hianyzo-modulok\install_ext_dl.py
+
+v2.4.8
+
+--DirectOne > videótár
+-ha van akkor hu és en hang is letöltődik
+
+--javítva: sweet.tv
