@@ -15,8 +15,8 @@ ext_dl v2.1
  ide kell tenni: (így is van mappázva)
  Downloads\info\ext_dl
  03. 
- install:
- drmfiles\programok\hianyzo-modulok\install_ext_dl.py
+ install: install_ext_dl.py
+ drmfiles\programok\hianyzo-modulok
 
 v2.4.8
 
