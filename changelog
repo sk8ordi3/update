@@ -1,26 +1,6 @@
-ext_dl v2.1
+v2.4.9
 
---EXT_DL > Netflix javítva
--ismét van 720p és 1080p
-
---EXT_DL > AMAZON (de) Freevee
- (német ip kell hozzá)
-
--ext_dl telepítése:
- 01.
- a teljes meglévő ext_dl mappa törlése:
- Downloads\info\ext_dl
- 02.
- kicsomagolva a ext_dl_v2.1.7z -t
- ide kell tenni: (így is van mappázva)
- Downloads\info\ext_dl
- 03. 
- install: install_ext_dl.py
- drmfiles\programok\hianyzo-modulok
-
-v2.4.8
-
---DirectOne > videótár
--ha van akkor hu és en hang is letöltődik
-
---javítva: sweet.tv
+--javítva: DirectOne > videótár
+-felirat letöltése
+-felbontás választóhoz:
+ hangok letöltése
