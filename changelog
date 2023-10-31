@@ -1,6 +1,10 @@
-v2.4.9
+v2.5.0
 
---javítva: DirectOne > videótár
--felirat letöltése
--felbontás választóhoz:
- hangok letöltése
+--javítva: DirectOne 
+-felirat letöltés hiba
+-videótár > felbontás választó
+ en, fr, ru, és es hangot is kereshet
+
+--javítva: amazon prime feliratok
+-ha nincs hu, en akkor auto kiválassza 
+ az elsőt ami elérhető
