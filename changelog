@@ -1,15 +1,15 @@
-v2.5.2
+v2.5.3
+
+--HBOMAX
+-1080p > 4K
+ már csak max 720p megoldható
+ emiatt a 720p lett az alapértelmezett
+
+--DirectOne javítva > Archív
+-felbontás választó
+ az oldal hiányos infó miatt
+ a track nevek kiolvasva az mpd-ből..
 
 --új letöltő hozzáadva: Ctrl + 4
 -Bilibili tv
-
---LIVE > TelekomTvgo
--v1, v2
- a majdnem 4 órás live vodok letöltése 
- már nem lehetséges
- egyik megoldással sem.. a lehetőséget 
- a próbálgatásra meghagytam és ezeket a konzol 
- a v2-be pirossal fogja jelölni..
-
---javítva: arena4+
--oldal változás lekövetve..
+ évad+epizód választó
