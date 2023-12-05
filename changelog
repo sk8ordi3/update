@@ -1,15 +1,27 @@
-v2.5.3
+v2.5.4
 
---HBOMAX
--1080p > 4K
- már csak max 720p megoldható
- emiatt a 720p lett az alapértelmezett
+--javítva: arena4plus
+- cookie kiolvasáshoz már nincsen 
+  szükség böngészőre
+  e-mail, jelszót kér egyszer 
+  és ide tárolódik:
+  Downloads\info\arena4p_login.txt
 
---DirectOne javítva > Archív
--felbontás választó
- az oldal hiányos infó miatt
- a track nevek kiolvasva az mpd-ből..
+--új letöltő hozzáadva: VPN
+- Tubi TV
 
---új letöltő hozzáadva: Ctrl + 4
--Bilibili tv
- évad+epizód választó
+--új letöltő hozzáadva: CTRL + 4
+- SkateAustria
+  e-mail, jelszót kér egyszer
+  és ide tárolódik:
+  Downloads\info\skateaustria_login.txt
+
+--javítva: TelekomTVGO
+- en/eng audio track keresése
+
+--új letöltő hozzáadva: EXT_DL > Netflix
+- SD > 540p
+
+--javítva: mtva m3.hu
+- oldalváltozás lekövetve
+  nemzetiarchivum.hu
