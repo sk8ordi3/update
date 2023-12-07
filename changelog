@@ -1,27 +1,7 @@
-v2.5.4
+v2.5.5
 
---javítva: arena4plus
-- cookie kiolvasáshoz már nincsen 
-  szükség böngészőre
-  e-mail, jelszót kér egyszer 
-  és ide tárolódik:
-  Downloads\info\arena4p_login.txt
+--javítva: RTL+
+ - token hiba..
 
---új letöltő hozzáadva: VPN
-- Tubi TV
-
---új letöltő hozzáadva: CTRL + 4
-- SkateAustria
-  e-mail, jelszót kér egyszer
-  és ide tárolódik:
-  Downloads\info\skateaustria_login.txt
-
---javítva: TelekomTVGO
-- en/eng audio track keresése
-
---új letöltő hozzáadva: EXT_DL > Netflix
-- SD > 540p
-
---javítva: mtva m3.hu
-- oldalváltozás lekövetve
-  nemzetiarchivum.hu
+--javítva: skyshowtime
+ - regex hiba..
