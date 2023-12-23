@@ -1,7 +1,18 @@
-v2.5.5
+v2.5.6
 
---javítva: RTL+
- - token hiba..
+-- új letöltő hozzáadva: Ctrl + 4
+- Viki.com (rakuten)
 
---javítva: skyshowtime
- - regex hiba..
+---javítva:
+
+-- directone 
+- (RE) elérhető legjobb minőség
+
+-- Filmbox+
+- check segment off
+
+--EXT_dl > freevee
+- audio választó hozzáadva (Film 1080p)
+
+-- d-fi 
+- új arl hozzáadva
