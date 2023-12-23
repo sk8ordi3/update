@@ -3,6 +3,12 @@ v2.5.6
 -- új letöltő hozzáadva: Ctrl + 4
 - Viki.com (rakuten)
 
+--EXT_dl > freevee
+- audio választó hozzáadva (Film 1080p)
+
+-- d-fi 
+- új arl hozzáadva (128 > FLAC)
+
 ---javítva:
 
 -- directone 
@@ -10,9 +16,3 @@ v2.5.6
 
 -- Filmbox+
 - check segment off
-
---EXT_dl > freevee
-- audio választó hozzáadva (Film 1080p)
-
--- d-fi 
-- új arl hozzáadva
