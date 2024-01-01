@@ -1,18 +1,25 @@
-v2.5.6
+v2.5.7
 
--- új letöltő hozzáadva: Ctrl + 4
-- Viki.com (rakuten)
-
---EXT_dl > freevee
-- audio választó hozzáadva (Film 1080p)
-
--- d-fi 
-- új arl hozzáadva (128 > FLAC)
+-- új letöltő hozzáadva: DRM nélküli vod
+ 06 yt-dlp Unsupported URL
+- sorozatok.net
 
 ---javítva:
+-- EXT_DL
+ ext_dl_v2.2.7z
+ netflix, amazon prime
+ 
+-ext_dl telepítése:
+ 01.
+ a teljes meglévő ext_dl mappa törlése:
+ Downloads\info\ext_dl
+ 02.
+ kicsomagolva a ext_dl_v2.2.7z -t
+ ide kell tenni: (így is van mappázva)
+ Downloads\info\ext_dl
+ 03.
+ install: install_ext_dl.py
+ drmfiles\programok\hianyzo-modulok
 
--- directone 
-- (RE) elérhető legjobb minőség
-
--- Filmbox+
-- check segment off
+-- Viki.com (rakuten)
+ jobb regex..
