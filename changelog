@@ -1,25 +1,32 @@
-v2.5.7
+v2.5.8
 
--- új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
-- sorozatok.net
-
----javítva:
--- EXT_DL
- ext_dl_v2.2.7z
- netflix, amazon prime
+--új letöltő hozzáadva > Ctrl + 4
+- Rakuten TV
+  1080p és 5.1-et keres
  
--ext_dl telepítése:
- 01.
- a teljes meglévő ext_dl mappa törlése:
- Downloads\info\ext_dl
- 02.
- kicsomagolva a ext_dl_v2.2.7z -t
- ide kell tenni: (így is van mappázva)
- Downloads\info\ext_dl
- 03.
- install: install_ext_dl.py
- drmfiles\programok\hianyzo-modulok
+---javítva:
+--Drm nélküli vod > 06-os menü
+- Raiplay.it
+  drm nélküli és a drm védett
+  tartalmak letöltése
 
--- Viki.com (rakuten)
- jobb regex..
+--LIVE1 > DirectOne > 02-es menü
+- csatornák kilistázása
+
+--NAVA
+- keresőhöz 2024 hozzáadva
+
+--LIVE1 > TelekomTVGO > 02-es menü
+- token keresés továbbfejlesztése
+
+--Ctrl + 2 > Filmbox+
+- token keresés továbbfejlesztése
+
+--Ctrl + 4 > skate austria
+- regex javítása
+
+--LIVE1 > élő .m3u8|.mp3 felvétele
+- 24 órás időformátumban kell megadni
+  az eddigi perc helyett
+  így nem kell számolgatni, ha több 
+  óra múlva indítanál egy felvételt
