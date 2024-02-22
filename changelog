@@ -1,26 +1,28 @@
-v2.5.8
+2.5.9
 
---új letöltő hozzáadva > Ctrl + 4
-- Rakuten TV
-  1080p és 5.1-et keres
- 
+---M3 ssl error javítva..
+
+---MindigtvGO javítva..
+
+---új letöltő hozzáadva: DRM nélküli vod
+- Valdor Art
+
+---új letöltő hozzáadva: Ctrl + 2
+- Filmbox + > sorozat részeinek 
+  listázása és letöltése
+
 ---javítva:
---Drm nélküli vod > 06-os menü
-- Raiplay.it
-  drm nélküli és a drm védett
-  tartalmak letöltése
-
---LIVE1 > DirectOne > 02-es menü
-- csatornák kilistázása
-
---LIVE1 > TelekomTVGO > 02-es menü
-- token keresés továbbfejlesztése
-
---Ctrl + 2 > Filmbox+
-- token keresés továbbfejlesztése
-
---LIVE1 > élő .m3u8|.mp3 felvétele
-- 24 órás időformátumban kell megadni
-  az eddigi perc helyett
-  így nem kell számolgatni, ha több 
-  óra múlva indítanál egy felvételt
+-- EXT_DL
+ mindent átalakítottam max. SD-re..
+ 
+-ext_dl telepítése:
+ 01.
+ a teljes meglévő ext_dl mappa törlése:
+ Downloads\info\ext_dl
+ 02.
+ kicsomagolva a ext_dl_v2.3.7z -t
+ ide kell tenni: (így is van mappázva)
+ Downloads\info\ext_dl
+ 03.
+ install: install_ext_dl.py
+ drmfiles\programok\hianyzo-modulok
