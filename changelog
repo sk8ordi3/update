@@ -1,27 +1,7 @@
-2.5.9
-
----M3 ssl error javítva..
----MindigtvGO javítva..
+2.6.0
 
 ---új letöltő hozzáadva: DRM nélküli vod
-- Valdor Art
+ 06 yt-dlp Unsupported URL
+- Da Vinci (davinci.tv/hu)
 
----új letöltő hozzáadva: Ctrl + 2
-- Filmbox + > sorozat részeinek 
-  listázása és letöltése
-
----javítva:
--- EXT_DL
- mindent átalakítottam max. SD-re..
- 
--ext_dl telepítése:
- 01.
- a teljes meglévő ext_dl mappa törlése:
- Downloads\info\ext_dl
- 02.
- kicsomagolva a ext_dl_v2.3.7z -t
- ide kell tenni: (így is van mappázva)
- Downloads\info\ext_dl
- 03.
- install: install_ext_dl.py
- drmfiles\programok\hianyzo-modulok
+---Nava menükben az SSL error javítva
