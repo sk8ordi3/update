@@ -1,7 +1,23 @@
-2.6.0
+2.6.1
+
+---új letöltő hozzáadva: Ctrl + 4
+- Curiosity Stream
+- Eurosport (prémium tartalmakhoz)
 
 ---új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
-- Da Vinci (davinci.tv/hu)
+- mikrotik
 
----Nava menükben az SSL error javítva
+---új letöltő hozzáadva: Ctrl + 5
+- Ceska televize (cz)
+
+---javítva:
+-- NAVA 
+- (kereső, "szalagon voltak" menü)
+
+-- Disney+ 
+- az újabb tartalmak már nem működtek
+  
+-- Skyshowtime
+- az újabb tartalmak feliratainak javítása
+
+--- d-fi új ARL hozzáadva (128 > FLAC)
