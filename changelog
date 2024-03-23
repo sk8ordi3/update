@@ -1,25 +1,19 @@
-2.6.1
-
----új letöltő hozzáadva: Ctrl + 4
-- Curiosity Stream
-- Eurosport (prémium tartalmakhoz)
-
----új letöltő hozzáadva: DRM nélküli vod
- 06 yt-dlp Unsupported URL
-- mikrotik
+v2.6.2
 
 ---új letöltő hozzáadva: Ctrl + 5
-- Ceska televize (cz)
+-- Médiaklikk (Rádió):
+ Médiaklikk epg-ből visszatöltés (pár hónap)
+ Musor.tv epg-ből visszatöltés (pár év)
+ teljes nap visszatöltése
+ egyedi dátum és idő alapján
+
+---új letöltő hozzáadva: LIVE 2
+-- Filmbox+
+ élő adás felvétele
 
 ---javítva:
--- NAVA 
-- (kereső, "szalagon voltak" menü)
+-- Bilibili 
+ (regex hiba)
 
--- Disney+ 
-- az újabb tartalmak már nem működtek
-  
--- Skyshowtime
-- az újabb tartalmak feliratainak javítása
-
--- d-fi
-- új ARL hozzáadva (128 > FLAC)
+- konzol ablak kíhúzva jobbra és a
+  tálca fölé pár mm-el
