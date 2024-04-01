@@ -1,26 +1,21 @@
-v2.6.3
+v2.6.2
+
+---új letöltő hozzáadva: Ctrl + 5
+-- Médiaklikk (Rádió):
+- Médiaklikk epg-ből visszatöltés (pár hónap)
+  (+2 perc hozzáadva a végéhez)
+- Musor.tv epg-ből visszatöltés (pár év)
+  (+2 perc hozzáadva a végéhez)
+- teljes nap visszatöltése
+- egyedi dátum és idő alapján
+
+---új letöltő hozzáadva: LIVE 2
+-- Filmbox+
+ élő adás felvétele
 
 ---javítva:
--- RTL +
-   userinfo hiba javítva  
+-- Bilibili 
+ (regex hiba)
 
----Python kezelés átdolgozva..
--- kijavítottam a python által dobott hibákat
-   amik olyankor jöttek elő, ha valaki nem jól
-   telepítette fel a modulokat vagy van több python
-   is a gépen vagy esetleg a python 3.12 lett telepítve...
--- a mostani működés, ha csak egy python van és
-   megvan minden fontos modul, akkor csak simán elindul
-   abban az esetben, ha van több python is telepítve
-   akkor ki lehet választani, hogy melyik python verzióval
-   induljon el a drm program, ha így is van olyan modul ami
-   nincsen telepítve akkor a kiválasztott verzióhoz
-   is telepítve lesznek a szükséges modulok
--- a fő "start"-os python fájl továbbra is amit duplaklikkel
-   indítani kell..
--- így a legproblémásabb, netflix is működőképes lett különböző 
-   verziókkal: python 3.8.5 > python 3.12.2-ig (legfrissebb)
-   !python 3.10 továbbra is javíthatatlan lett a netflix-hez!
--- mivel elég sok változtatás történt a Downloads mappát kell
-   meghagyni továbbra is, ha pedig van bármi gond akkor a
-   python_fix_v1.py fájl fog lefutni, ami kijavít minden hibát..
+- konzol ablak kíhúzva jobbra és a
+  tálca fölé pár mm-el
