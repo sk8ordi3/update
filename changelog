@@ -1,25 +1,24 @@
-v2.6.3
+v2.6.4
 
----javítva:
--- RTL +
+---python_fix_v2.py
+-- ebbe már egyedi útvonalat is meg lehet adni
+ (továbbra se ajánlom az egyedi python útvonalat..)
 
----Python kezelés átdolgozva..
--- kijavítottam a python által dobott hibákat
-   amik olyankor jöttek elő, ha valaki nem jól
-   telepítette fel a modulokat vagy van több python
-   is a gépen..
--- a mostani működés, ha csak egy python van és
-   megvan minden fontos modul, akkor csak simán elindul
-   abban az esetben, ha van több python is telepítve
-   akkor ki lehet választani, hogy melyik python verzióval
-   induljon el a drm program, ha így is van olyan modul ami
-   nincsen telepítve akkor a kiválasztott verzióhoz
-   is telepítve lesznek a szükséges modulok
--- a fő "start"-os python fájl továbbra is amit duplaklikkel
-   indítani kell..
--- így a legproblémásabb, netflix is működőképes lett különböző 
-   verziókkal: python 3.8.5 > python 3.12.2-ig (legfrissebb)
-   !python 3.10 továbbra is javíthatatlan lett a netflix-hez!
--- mivel elég sok változtatás történt a Downloads mappát kell
-   meghagyni továbbra is, ha pedig van bármi gond akkor a
-   python_fix_v1.py fájl fog lefutni, ami kijavít minden hibát..
+---új letöltő hozzáadva: Csak sorozatokhoz!
+-- TV2 play
+
+---LIVE1 > sweet.tv # dvr letöltés
+-- mivel már az oldalon nem mutatja, hogy mi az ami 
+   visszanézhető, így elérhetővé tettem..
+   csatornánként változik mennyi napot lehet
+   "visszamenni" ez lehet 7 vagy 5 vagy x..
+
+---javítva: 
+-- DRM nélküli vod > 06 yt-dlp Unsupported URL
+ - mikrotik
+
+-- Ctrl + 3 
+ - Skyshowtime
+
+-- NAVA
+ - cím-ben lévő karakterszámok csökkentve 100-ra
