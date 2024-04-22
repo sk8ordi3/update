@@ -1,24 +1,21 @@
-v2.6.4
+v2.6.5
 
----python_fix_v2.py
--- ebbe már egyedi útvonalat is meg lehet adni
- (továbbra se ajánlom az egyedi python útvonalat..)
+---javítva: Ctrl + 2, Csak Sorozatkhoz!
+-- Tv2Play
+   google fiók vagy e-mail/jelszó
+   megoldás hozzáadva
 
----új letöltő hozzáadva: Csak sorozatokhoz!
--- TV2 play
+   google fiókos megoldáshoz kell, hogy 
+   a firefox-ban a tv2play oldalán be 
+   legyél jelentkezve, majd zárd is be az 
+   összes tabot és az utolsó bezárja 
+   a firefox-ot is..
+   (ezután indíthatod a programot)
+   
+   aki mail és jelszót használ az nem fog
+   tapasztalni semmit, ha a Downloads\info
+   mappában benne van a már meglévő 
+   tv2play_login.txt fájl
 
----LIVE1 > sweet.tv # dvr letöltés
--- mivel már az oldalon nem mutatja, hogy mi az ami 
-   visszanézhető, így elérhetővé tettem..
-   csatornánként változik mennyi napot lehet
-   "visszamenni" ez lehet 7 vagy 5 vagy x..
-
----javítva: 
--- DRM nélküli vod > 06 yt-dlp Unsupported URL
- - mikrotik
-
--- Ctrl + 3 
- - Skyshowtime
-
--- NAVA
- - cím-ben lévő karakterszámok csökkentve 100-ra
+-- Csak Sorozatkhoz! > Tv2Play
+   saját listából letöltés hozzáadva
