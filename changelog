@@ -1,21 +1,9 @@
-v2.6.5
+v2.6.6
 
----javítva: Ctrl + 2, Csak Sorozatkhoz!
--- Tv2Play
-   google fiók vagy e-mail/jelszó
-   megoldás hozzáadva
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- Gerilla Mentor
+-- Pluto TV (linkhez megfelelő ip szügséges)
 
-   google fiókos megoldáshoz kell, hogy 
-   a firefox-ban a tv2play oldalán be 
-   legyél jelentkezve, majd zárd is be az 
-   összes tabot és az utolsó bezárja 
-   a firefox-ot is..
-   (ezután indíthatod a programot)
-   
-   aki mail és jelszót használ az nem fog
-   tapasztalni semmit, ha a Downloads\info
-   mappában benne van a már meglévő 
-   tv2play_login.txt fájl
-
--- Csak Sorozatkhoz! > Tv2Play
-   saját listából letöltés hozzáadva
+---javítva:
+-- Skyshowtime
