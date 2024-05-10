@@ -1,9 +1,15 @@
-v2.6.6
+v2.6.7
 
----új letöltő hozzáadva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
+---javítva: DRM nélküli vod >
+   06 yt-dlp Unsupported URL
+-- mindenamimikrotik
+   egy oldalon több link feldolgozása
 -- Gerilla Mentor
--- Pluto TV (linkhez megfelelő ip szügséges)
+   többhetes képzések elszeparálása
+   (hibák még mindig lehetnek pm-ben jöhet
+    a hibás link, hogy tudjam javítani..)
 
----javítva:
--- Skyshowtime
+---javítva: Ctrl + 5
+-- Médiaklikk (rádió)
+   ami az oldalon mp3 az eredetileg mp4
+   emiatt az mp4-ből ki lesz szedve az mp3..
