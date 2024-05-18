@@ -1,15 +1,5 @@
-v2.6.7
+v2.6.8
 
----javítva: DRM nélküli vod >
-   06 yt-dlp Unsupported URL
--- mindenamimikrotik
-   egy oldalon több link feldolgozása
--- Gerilla Mentor
-   többhetes képzések elszeparálása
-   (hibák még mindig lehetnek pm-ben jöhet
-    a hibás link, hogy tudjam javítani..)
-
----javítva: Ctrl + 5
--- Médiaklikk (rádió)
-   ami az oldalon mp3 az eredetileg mp4
-   emiatt az mp4-ből ki lesz szedve az mp3..
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- Sorozatplus
