@@ -1,5 +1,23 @@
-v2.6.8
+v2.6.9
 
----új letöltő hozzáadva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- Sorozatplus
+---új letöltő hozzáadva: MAX
+-- firefoxba kell bejelentkezni
+   majd a tabokat bezárni és az
+   utolsó bezárja a firefoxot is..
+-- ezek a link fajták támogatottak: 
+   https://play.max.com/show/....
+   https://play.max.com/mini-series/....
+   https://play.max.com/standalone/....
+   https://play.max.com/movie/....
+-- maradt a max 720p
+-- a főmenüben lévő Beállításokba:
+   MAX felirat hozzáadva
+   MAX 5.1 hozzáadva
+-- választós menüknél a hang és a videó
+   kiválasztásánál fontos a számok
+   sorrendje!
+-- választós menüknél, ha valamelyik
+   nyelvből több is van akkor válaszd
+   ki mindet mert nem tudni, hogy
+   melyik lesz a hangos ismertető..
+-- sport letöltés nincsen
