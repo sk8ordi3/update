@@ -1,23 +1,17 @@
-v2.6.9
+v2.7.0
 
----új letöltő hozzáadva: MAX
--- firefoxba kell bejelentkezni
-   majd a tabokat bezárni és az
-   utolsó bezárja a firefoxot is..
--- ezek a link fajták támogatottak: 
-   https://play.max.com/show/....
-   https://play.max.com/mini-series/....
-   https://play.max.com/standalone/....
-   https://play.max.com/movie/....
--- maradt a max 720p
--- a főmenüben lévő Beállításokba:
-   MAX felirat hozzáadva
-   MAX 5.1 hozzáadva
--- választós menüknél a hang és a videó
-   kiválasztásánál fontos a számok
-   sorrendje!
--- választós menüknél, ha valamelyik
-   nyelvből több is van akkor válaszd
-   ki mindet mert nem tudni, hogy
-   melyik lesz a hangos ismertető..
--- sport letöltés nincsen
+---javítva: MAX
+-- topical linkek támoagása
+-- token kiadás javítása
+-- Beállításokhoz hozzáadva:
+   MAX AVC|HEVC video váltása
+   (továbbra is alap az AVC)
+---javítva: M3 Radioarchivum
+---javítva: Tubitv
+---javítva: mindenamimikrotik
+---javítva: arena4+
+
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- channel5 (my5)
+-- itv.com
