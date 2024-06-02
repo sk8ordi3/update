@@ -1,17 +1,22 @@
-v2.7.0
-
----javítva: MAX
--- topical linkek támoagása
--- token kiadás javítása
--- Beállításokhoz hozzáadva:
-   MAX AVC|HEVC video váltása
-   (továbbra is alap az AVC)
----javítva: M3 Radioarchivum
----javítva: Tubitv
----javítva: mindenamimikrotik
----javítva: arena4+
+v2.7.1
 
 ---új letöltő hozzáadva: DRM nélküli vod >
 ---06 yt-dlp Unsupported URL
--- channel5 (my5)
--- itv.com
+-- ppcrn
+-- hdmozi.hu
+-- tokuzl.net / tokuzilla.net
+-- iq.com
+
+---Javítva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- letoltes.club (filmpapa)
+-- videa.hu
+-- waaw
+-- mindjart.megnezed.com (netmozi)
+-- filmvilag.me
+-- sorozatbarat.club
+-- sorozatok.net
+
+---Javítva: MAX
+-- trükköznek az mpd linkekkel aki 
+   használja mindenképp frissítsen!
