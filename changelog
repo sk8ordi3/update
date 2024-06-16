@@ -1,27 +1,13 @@
-v2.7.2
+v2.7.3
 
----új letöltő hozzáadva: M3 MTVA
--- 04 Letöltés adatbázisból
-- napi egyszer frissül az adatbázis
-  (pár perccel azután, hogy a 
-  szerver létrehozta az újat)
-  ezután a meglévő lesz használva
-- külön kijelölni valamit a jobb 
-  egérgombbal lehet
-- mindenhez lesz adatlap mert a címeket
-  le kellett vágnom, ha nagyon hosszú..
-- üressen a kereső gombot megnyomva
-  bejön a teljes adatbázis
-- letöltés megkezdésekor az ablak nem
-  lesz már "elérhető" és amiatt is ugrik
-  be a konzol, amint végzett ismét lehet
-  használni..
-- mivel csak elvétve vannak jobb felbontások
-  ajánlott a felbontásnál a "!legjobb" 
-  lehetőséget kiválasztani
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+--kimcartoon.li
+--aniwave.to
+--vidstore
 
----javítva:
---d-fi
-- új ARL hozzáadva
---Gerilla Mentor Klub
-- átrakva ebbe a menübe: CTRL + 5
+-- Médiaklikk (rádió)
+-- kiegészítve: Nemzeti Sportrádió
+
+---javítva: Ctrl + 2
+-- Japanese Film Festival
