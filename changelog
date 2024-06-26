@@ -1,24 +1,22 @@
-v2.7.4
+v2.7.5
+
+---2 fajta update lehetőség hozzáadva:
+-- csak simán duplaklikk az !update_....py fájlra 
+-- vagy új verzió megjelenésénél amikor aktív lesz 
+   a piros Új verzió gomb a főmenüben 
+   megnyomva lesz egy ilyen gomb:
+   Letöltés & program Frissítése
+   (mivel ezt csak most írtam bele ez majd csak 
+    a következő verziónál élesedik nálatok)
+-- Csak a programhoz tartozó fájlok és a
+   drmfiles mappa lesz törölve
+   a Downloads mappa és a beállítások is megmaradnak!
 
 ---javítva: 
 ---MAX 
-   a feliratok kinyerése átírva.. viszont így
-   nagyon sok "kamu" forced felirat is 
-   elérhető lett, de mivel ezek ilyen bemutató
-   szerűséghez készülhettek ezért ezek auto
-   törölve lesznek.. ha ez megtalálható benne:
-   MÁR A STREAMINGEN
+-- feliratok javítása
+   (remélhetőleg több para már nem lesz vele...)
 
--- ismét variáltak az mpd linkekkel ami miatt
-   már csak a logót lehetett letölteni
-   ez is javítva lett..
-
--- Filmekhez és a sorozathoz hozzáadva, hogy
-   mikor lesz törölve
-
----Japanese Film Festival
-   hozzáadva: sorozatrészek letöltése
-
----új letöltő hozzáadva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- wco.tv
+-- ismét variáltak az mpd linkekkel..
+   már elkezdték integrálni a bemutatókat is..
+   (ezek kiszedve a linkből..)
