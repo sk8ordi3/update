@@ -1,26 +1,24 @@
-v2.7.5
+v2.7.6
 
----2 fajta update lehetőség hozzáadva:
--- csak simán duplaklikk az !update_....py fájlra 
--- vagy új verzió megjelenésénél amikor aktív lesz 
-   a piros Új verzió gomb a főmenüben 
-   megnyomva lesz egy ilyen gomb:
-   Letöltés & program Frissítése
-   (mivel ezt csak most írtam bele ez majd csak 
-    a következő verziónál élesedik nálatok)
--- Csak a programhoz tartozó fájlok és a
-   drmfiles mappa lesz törölve
-   a Downloads mappa és a beállítások is
-   megmaradnak!
+---javítva:
+--- MAX 
+-   sport (vod) linkek támogatása
+    https://play.max.com/sport/......
 
----javítva: 
----MAX 
--- feliratok javítása
-   (remélhetőleg több para már nem lesz vele...)
+-- d-fi
+-  új ARL hozzáadva
 
--- ismét variáltak az mpd linkekkel..
-   már elkezdték integrálni a bemutatókat is..
-   (ezek kiszedve a linkből..)
+-- Ctrl + 5: Gerilla Mentor
+-  Lecke link menü hozzáadva
+   (cloudflare védelem allatti videókhoz..)
 
--- volt olyan sorozat ami eddig letölthetelen volt 
-   (pl. Estonia)
+-- NAVA > 04 kereső
+   hozzáadtam egy plusz szűrést, hogy ne 
+   legyen annyi fals találat...
+   
+   a keresést csak ezekben keresheti:
+   doc_title, clean_id, sort_title,
+   main_title, guide_title
+   
+   a clean_id miatt megmaradt a lehetőség, hogy
+   csak egy bizonyos id-ra lehessen szűrni...
