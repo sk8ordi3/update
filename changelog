@@ -1,24 +1,6 @@
-v2.7.6
+v2.7.7
 
----javítva:
---- MAX 
--   sport (vod) linkek támogatása
-    https://play.max.com/sport/......
-
--- d-fi
--  új ARL hozzáadva
-
--- Ctrl + 5: Gerilla Mentor
--  Lecke link menü hozzáadva
-   (cloudflare védelem allatti videókhoz..)
-
--- NAVA > 04 kereső
-   hozzáadtam egy plusz szűrést, hogy ne 
-   legyen annyi fals találat...
-   
-   a keresést csak ezekben keresheti:
-   doc_title, clean_id, sort_title,
-   main_title, guide_title
-   
-   a clean_id miatt megmaradt a lehetőség, hogy
-   csak egy bizonyos id-ra lehessen szűrni...
+---javítva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- mediaklikk.hu
+-- m4sport.hu
