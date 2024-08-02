@@ -1,6 +1,14 @@
-v2.7.7
+v2.7.8
+
+---új letöltő hozzáadva: LIVE 2
+-- MAX élő adás felvétele (olimpia)
+
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- wetv
+-- mozimix.com
 
 ---javítva: DRM nélküli vod >
 ---06 yt-dlp Unsupported URL
--- mediaklikk.hu
--- m4sport.hu
+-- rtl.hu
+-- videa.hu
