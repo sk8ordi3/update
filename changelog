@@ -9,8 +9,7 @@ v2.7.9
 -- 03 rögzített felvételek letöltése
    bővített mpd link letöltése
 
----javítva:
--- EXT_DL > AMZN Prime
+---javítva: EXT_DL > AMZN Prime
 -- sajnos a Netflix-et még mindig
    nem sikerült javítanom...
 -- ext_dl telepítése:
