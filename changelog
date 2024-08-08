@@ -1,14 +1,28 @@
-v2.7.8
+v2.7.9
 
----új letöltő hozzáadva: LIVE 2
--- MAX élő adás felvétele (olimpia)
+---javítva: MAX (sport linkek)
 
----új letöltő hozzáadva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- wetv
--- mozimix.com
+---új letöltő hozzáadva: CTRL + 5
+-- mesterakademia.hu
 
----javítva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- rtl.hu
--- videa.hu
+---javítva: CTRL + 3 > Yettel tv
+-- 03 rögzített felvételek letöltése
+   bővített mpd link letöltése
+
+---javítva:
+-- EXT_DL > AMZN Prime
+
+-- sajnos a Netflix-et még mindig
+   nem sikerült javítanom...
+
+-- ext_dl telepítése:
+01.
+ a teljes meglévő ext_dl mappa törlése:
+ Downloads\info\ext_dl
+02.
+ kicsomagolva a ext_dl_v2.4.7z -t
+ ide kell tenni: (így is van mappázva)
+ Downloads\info\ext_dl
+03.
+ install: install_ext_dl.py
+ drmfiles\programok\hianyzo-modulok
