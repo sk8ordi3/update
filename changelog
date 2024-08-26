@@ -1,16 +1,11 @@
-v2.8.1
-
----a felület igazítása az asztalhoz
--- akinek alúl van a tálca ott nem
-   volt gond.. más helyen a konzol
-   eltűnt..
-
----új letöltő hozzáadva: LIVE2 > RTL +
--- élő adás letöltése (UEFA)
-
----d-fi (deezer, spotify)
--- új ARL hozzáadva (128 > FLAC)
-   (Austria)
+v2.8.2
 
 ---javítva: 
--- arena4+
+-- RTL+ 
+ - (címben lévő * csere: #)
+ - választás a valós felbontások közül
+-- Gerilla Mentor
+ - cloudflare védett linkek letöltése
+-- sorozatplus 
+ - (oldalváltozás)
+   sorozat.plus | sorozat.wiki
