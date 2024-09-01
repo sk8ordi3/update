@@ -1,11 +1,24 @@
-v2.8.2
+v2.8.3
 
----javítva: 
--- RTL+ 
- - (címben lévő * csere: #)
- - választás a valós felbontások közül
--- Gerilla Mentor
- - cloudflare védett linkek letöltése
--- sorozatplus 
- - (oldalváltozás)
-   sorozat.plus | sorozat.wiki
+---d-fi (deezer, spotify)
+-- új ARL hozzáadva (128 > FLAC)
+   aki cserélte most ismét (Austria) 
+   ha sűrűn fog működésképtelen lenni akkor
+   maradni fog inkább a brazil...
+   
+--- Ctrl + 5: Gerilla Mentor Klub
+-- az egészet átírtam így most már 
+   lassítás mentes lett és a Cloudflare 
+   problémát is megoldottam..
+-- firefox helyett email és jelszót kell megadni
+-- az elszeparált menük helyett most már 
+   csak egy van, amiből a számokkal ki lehet 
+   választani, hogy mi töltődjön le
+   pl. 3 7 10-15 
+   vagy pl. 1-93
+-- a .txt fájlok helyett a .html oldal tárolódik
+   így pl. az angol leckékhez vissza lehet nézni a
+   teljes leírást is ami az oldalon volt a videókhoz
+
+-- Ctrl + 5: Médiaklikk (rádió) 
+-- kiegészítve: Csukás Meserádió
