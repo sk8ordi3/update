@@ -1,24 +1,31 @@
-v2.8.3
+v2.8.4
 
----d-fi (deezer, spotify)
--- új ARL hozzáadva (128 > FLAC)
-   aki cserélte most ismét (Austria) 
-   ha sűrűn fog működésképtelen lenni akkor
-   maradni fog inkább a brazil...
-   
---- Ctrl + 5: Gerilla Mentor Klub
--- az egészet átírtam így most már 
-   lassítás mentes lett és a Cloudflare 
-   problémát is megoldottam..
--- firefox helyett email és jelszót kell megadni
--- az elszeparált menük helyett most már 
-   csak egy van, amiből a számokkal ki lehet 
-   választani, hogy mi töltődjön le
-   pl. 3 7 10-15 
-   vagy pl. 1-93
--- a .txt fájlok helyett a .html oldal tárolódik
-   így pl. az angol leckékhez vissza lehet nézni a
-   teljes leírást is ami az oldalon volt a videókhoz
+---új letöltő hozzáadva: CTRL + 5
+---Netflix másolat
+-- valakik lemásolták és folyamatosan
+   töltögetik fel az NF-ről a filmeket
+   sorozatokat (nem eredeti minőségbe!)
+-- a ph fórum nyílt így nem írunk 
+   ide elérési linkeket!
+-- (nincs hozzá szükség account-ra)
+-- egy keresőt hoztam létre hozzá:
+   film/sorozat cím alapján lehet keresni
+-- szinkron is elérhető néha
+-- minőség általában filmeknél 1080p
+   sorozatoknál 720 néha 1080p
+-- néha van angol felirat a filmekhez
+-- mivel elég gyorsan leszedik az ilyen
+   oldalakat, ezzel se lesz másképp 
+   akit érdekel az szedjen le amennyit tud..
 
--- Ctrl + 5: Médiaklikk (rádió) 
--- kiegészítve: Csukás Meserádió
+---új letöltő hozzáadva: VPN
+-- The Roku Channel
+   (USA ip/vpn kell hozzá)
+
+---javítva:
+-- s-barat
+-- ceskatelevize.cz
+
+---Netflix
+-- mivel továbbra se tudtam javítani
+   így mindent eltávolítottam...
