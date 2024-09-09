@@ -1,25 +1,14 @@
-v2.8.4
+v2.8.5
 
----új letöltő hozzáadva: CTRL + 5
----Netflix másolat (keresés film/sorozat cím alapján)
--- valakik lemásolták és folyamatosan töltögetik fel
-   az NF-ről a filmeket sorozatokat 
-   (nem eredeti minőségbe!)
--- a ph fórum nyílt így nem írunk ide elérési linkeket!
--- (nincs hozzá szükség account-ra!)
--- szinkron is elérhető néha
--- mivel elég gyorsan leszedik az ilyen oldalakat, 
-   ezzel se lesz másképp akit érdekel az szedjen le 
-   addig amennyit tud..
-
----új letöltő hozzáadva: VPN
--- The Roku Channel
-   (USA ip/vpn kell hozzá)
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- hdobox.se
+-- cbn.com (family)
 
 ---javítva:
--- s-barat
--- ceskatelevize.cz
+-- chili.it
 
----Netflix
--- mivel továbbra se tudtam javítani
-   így mindent eltávolítottam...
+---főoldalról kikerült a netflix és a viasat
+-- a helyükre a skyshowtime és az arena+ került
+-- ha lesz ismét online elérhető tartalom a 
+   viasat-hoz akkor visszakerül..
