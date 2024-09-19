@@ -17,6 +17,7 @@ v2.8.6
 -- aznapi adás (vágott)
    (16 órás felvételnél, ez a menü csak a 
    ténylegesen megadott részt fogja tartalmazni)
+-- dátum hozzáadása a címhez, ha elérhető
 
 ---Ctrl + 5: Médiaklikk (rádió) 
 -- 05 Csukás Meserádió (adásrészletek letöltése)
