@@ -1,15 +1,25 @@
-v2.8.5
+v2.8.6
+
+---M3 archívum MTVA
+-- 04 Letöltés adatbázisból
+   bal alulra megjelenítve, hogy a 
+   jobb egérgombbal lehet kijelölni valamit 
+   az adatbázisból
 
 ---új letöltő hozzáadva: DRM nélküli vod >
 ---06 yt-dlp Unsupported URL
--- hdobox.se
--- cbn.com (family)
+-- millionairehoy.vhx.tv
+-- bemoved.vhx.tv
 
----javítva:
--- chili.it
--- arena4+
+---új letöltő hozzáadva: NAVA
+-- szalagon lévő adások (!várakozással)
+   (amíg el nem készül..)
+-- aznapi adás (vágott)
+   (16 órás felvételnél, ez a menü csak a 
+   ténylegesen megadott részt fogja tartalmazni)
 
----főoldalról kikerült a netflix és a viasat
--- a helyükre a skyshowtime és az arena+ került
--- ha lesz ismét online elérhető tartalom a 
-   viasat-hoz akkor visszakerül..
+---Ctrl + 5: Médiaklikk (rádió) 
+-- 05 Csukás Meserádió (adásrészletek letöltése)
+
+---javítva: 
+-- di-fi arl
