@@ -1,26 +1,24 @@
-v2.8.6
+v2.8.7
 
----M3 archívum MTVA
--- 04 Letöltés adatbázisból
-   bal alulra megjelenítve, hogy a 
-   jobb egérgombbal lehet kijelölni valamit 
-   az adatbázisból
+---új letöltő hozzáadva: Ctrl + 1
+-- AMC Micro lecserélve > SELEKT
+   (talán csak a Light verziója?)
+-- egyelőre csak a telekomnál elérhető 
+   a teljes csomag   
 
 ---új letöltő hozzáadva: DRM nélküli vod >
 ---06 yt-dlp Unsupported URL
--- millionairehoy.vhx.tv
--- bemoved.vhx.tv
+-- indaplay.hu
 
----új letöltő hozzáadva: NAVA
--- szalagon lévő adások (!várakozással)
-   (amíg el nem készül..)
--- aznapi adás (vágott)
-   (16 órás felvételnél, ez a menü csak a 
-   ténylegesen megadott részt fogja tartalmazni)
--- dátum hozzáadása a címhez, ha elérhető
+---Javítva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- sorozatbarat
 
----Ctrl + 5: Médiaklikk (rádió) 
--- 05 Csukás Meserádió (adásrészletek letöltése)
-
----javítva: 
--- di-fi arl
+---új letöltő hozzáadva: Csak Sorozatokhoz!
+---RTL+
+-- folyamatos letöltés (új)
+   választható, hogy csak pár darab legyen 
+   letöltve a listából vagy pl. 1-350
+-- új menü hozzáadva: RTL+ Eszköz törlése
+   lehet egyszerre több eszközt is törölni
+   majd újra választani a menük közül
