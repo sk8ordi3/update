@@ -1,24 +1,20 @@
-v2.8.7
+v2.8.8
 
----új letöltő hozzáadva: Ctrl + 1
--- AMC Micro lecserélve > SELEKT
-   (talán csak a Light verziója?)
--- mivel egyelőre csak a telekomnál elérhető 
-   a teljes csomag...   
+---új letöltő hozzáadva: Ctrl + 5
+---Médiaklikk (rádió)
+-- Médiatár (hanganyag)
 
----új letöltő hozzáadva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- indaplay.hu
+---Netflix másolat
+-- válogató	
 
----Javítva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- sorozatbarat
+---új letöltő hozzáadva: Mux nélküli
+---MAX
+-- válogató (mux nélkül)
 
----új letöltő hozzáadva: Csak Sorozatokhoz!
----RTL+
--- folyamatos letöltés (új)
-   választható, hogy csak pár darab legyen 
-   letöltve a listából vagy pl. 1-350
--- új menü hozzáadva: RTL+ Eszköz törlése
-   lehet egyszerre több eszközt is törölni
-   majd újra választani a menük közül
+---javítva: TelekomTVGO
+-- vod/kölcsönzött vod tartalmak
+-- LIVE részleg: v1-es
+   letöltőbe beleírtam, hogyan kell
+   mert nem volt egyértelmű..
+-- v2 3 oszlopba jelennek meg a csatornák
+   abc sorrendbe (+ kölyök klub, magyar mozi)
