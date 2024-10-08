@@ -1,13 +1,11 @@
 v2.8.8
 
 ---új letöltő hozzáadva: Ctrl + 5
----Médiaklikk (rádió)
--- Médiatár (hanganyag)
+---Médiaklikk (rádió) > Médiatár (hanganyag)
 
 ---Netflix másolat > válogató
 
----új letöltő hozzáadva: Mux nélküli
----MAX
+---új letöltő hozzáadva: Mux nélküli > MAX
 -- válogató (mux nélkül)
 
 ---javítva: TelekomTVGO
@@ -17,3 +15,11 @@ v2.8.8
    mert nem volt egyértelmű..
 -- v2 3 oszlopba jelennek meg a csatornák
    abc sorrendbe (+ kölyök klub, magyar mozi)
+
+---újaknak akik nem akarnak szórakozni a  
+   pythonnal csináltam egy .bat fájlt ami
+   letölti és feltelepíti a pythont majd
+   a szükséges modulokat is. (duplaklikk)
+   erre: install_python_3.9.bat
+   itt található:
+   drmfiles\programok\hianyzo-modulok\
