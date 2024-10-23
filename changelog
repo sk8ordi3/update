@@ -5,6 +5,7 @@ v2.8.9
    !httpx modul kell hozzá!
    csak akinek errort ír:
    cmd ablakba: pip install httpx
+   (python 3.9 kell hozzá!)
 -- Cinego
 -- Rakuten tv
 
