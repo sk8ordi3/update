@@ -1,25 +1,28 @@
-v2.8.8
+v2.8.9
 
 ---új letöltő hozzáadva: Ctrl + 5
----Médiaklikk (rádió) > Médiatár (hanganyag)
+-- Netflix (csak audio és felirat!)
+   !httpx modul kell hozzá!
+   csak akinek errort ír:
+   cmd ablakba: pip install httpx
+   !a videóra még mindig nincs megoldás
+   így emiatt nem kell írni...
+-- Cinego
+-- Rakuten tv
 
----Netflix másolat > válogató
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- andyday.tv
+---Javítva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- m4uhd.tv
 
----új letöltő hozzáadva: Mux nélküli > MAX
--- válogató (mux nélkül)
-
----javítva: TelekomTVGO
--- vod/kölcsönzött vod tartalmak
--- LIVE részleg: v1-es
-   letöltőbe beleírtam, hogyan kell
-   mert nem volt egyértelmű..
--- v2 3 oszlopba jelennek meg a csatornák
-   abc sorrendbe (+ kölyök klub, magyar mozi)
-
----újaknak akik nem akarnak szórakozni a  
-   pythonnal csináltam egy .bat fájlt ami
-   letölti és feltelepíti a pythont majd
-   a szükséges modulokat is. (duplaklikk)
-   erre: install_python_3.9.bat
-   itt található:
-   drmfiles\programok\hianyzo-modulok\
+---javítva:
+-- TelekomTVGO
+   visszakerült egy régebbi v1-es menü
+   amikor a többi zöld képet adna ezzel
+   is ki lehet próbálni, hátha jó lesz..
+-- bekerült egy szűrő menü is ami összegyűjti
+   egybe a műsorokat az adott napon
+-- d-fi 
+   arl frissítve: 128 > FLAC
