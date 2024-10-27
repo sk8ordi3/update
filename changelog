@@ -1,26 +1,25 @@
-v2.8.9
+v2.9.0
 
----új letöltő hozzáadva: Ctrl + 5
--- Netflix (csak audio és felirat!)
-   !httpx modul kell hozzá!
-   csak akinek errort ír:
-   cmd ablakba: pip install httpx
-   (python 3.9 kell hozzá!)
--- Cinego
--- Rakuten tv
-
----új letöltő hozzáadva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- andyday.tv
----Javítva: m4uhd.tv
+---új letöltő hozzáadva: VPN
+-- CBS.com
+   usa ip / desktop vpn kell hozzá
+   pl. urban vpn windows desktop:
+   https://www.urban-vpn.com/thank-you/
 
 ---javítva:
--- MAX letölthetetlen tartalmak javíása
--- TelekomTVGO
-   visszakerült egy régebbi v1-es menü
-   amikor a többi zöld képet adna ezzel
-   is ki lehet próbálni, hátha jó lesz..
--- bekerült egy szűrő menü is ami összegyűjti
-   egybe a műsorokat az adott napon
--- d-fi 
-   arl frissítve: 128 > FLAC
+-- CTRL +2: Filmbox+
+   oldalváltoztatás lekövetve...
+
+-- CTRL +5: Netflix (Csak audio és felirat!)
+   már nem csak python 3.9-el működik
+   (mindkettő hyper|httpx modul támogatása)
+
+-- RTL+
+   ha csak egy kulcs lesz akkor pirossal
+   ki lesz jelezve, hogy ilyenkor csak
+   max 720p ami még letölthető..
+   (Kodi-n L1-es androidos boxon működik
+   az 1080p, szóval az L3 nem képes rá..)
+
+-- Zene: d-fi
+   arl frissítve.. (128 > FLAC)
