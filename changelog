@@ -1,26 +1,12 @@
-v2.9.2
+v2.9.3
 
----új letöltő hozzáadva: MAX, mux nélküli
--- 4K és 1080p hozzáadva
-   !csak akkor legyen használva, ha kell a
-   2160p vagy az 1080p feleslegesen ne!
-   máshoz megmaradtak a régi menük..
-   
-  innen is köszi akik segítettek tesztelni!
-
----javítva:
--- M3 Nemzeti Archívum
-   oldalváltoztatás lekövetve..
-   amik fixen működnek azok
-   amik a böngészőben is mennek
-   
-   túl sok minden már nem működik az
-   adatbázisból..
-
--- DirectOne
-   oldalváltoztatás lekövetve..
-
--- RTL+
-   bentmaradt hiba javítva..
--- NF másolat
-   oldalváltoztatás lekövetve..
+---javítva: 
+-- MAX
+   sport és a standalone linkek javítása
+-- filmbox (1080p) hozzáadva
+   (úgy tűnik csak a filmek..)
+   trükkösen, de a felbontás helyett
+   a bitrátás lehetőség lesz az 1080p
+-- davinci.tv (hu)
+   kiválasztott sorozat listázása
+   hu vagy en nyelv töltődik le a videóhoz
