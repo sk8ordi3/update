@@ -1,12 +1,15 @@
-v2.9.3
+v2.9.4
 
----javítva: 
--- MAX
-   sport és a standalone linkek javítása
--- filmbox (1080p) hozzáadva
-   (úgy tűnik csak a filmek..)
-   trükkösen, de a felbontás helyett
-   a bitrátás lehetőség lesz az 1080p
--- davinci.tv (hu)
-   kiválasztott sorozat listázása
-   hu vagy en nyelv töltődik le a videóhoz
+!!Ne a fórumra írj hibajelentést, 
+hanem küld el privát üzenetben!!
+
+---javítva:
+
+---NAVA
+   oldal változtatás lekövetése
+---RTL+
+   fura hosszú linkek támogatása..
+---MAX 
+   menük kibővítve dual audio-val
+---DirectOne
+   hanghiba javítva
