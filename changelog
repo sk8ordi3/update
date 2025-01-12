@@ -1,15 +1,24 @@
-v2.9.4
+v2.9.5
 
-!!Ne a fórumra írj hibajelentést, 
-hanem küld el privát üzenetben!!
+---új letöltő hozzáadva: Ctrl + 6
+-- DumaTv
+
+---új letöltő hozzáadva: DRM nélküli vod >
+---06 yt-dlp Unsupported URL
+-- dezn.ru
+-- joyn.de
+-- videa.hu (tag vagy csatorna linket megadva)
+   összes videó ki lesz listázva, 
+   majd a számokkal lehet választani..
 
 ---javítva:
-
----NAVA
-   oldal változtatás lekövetése
----RTL+
-   fura hosszú linkek támogatása..
----MAX 
-   menük kibővítve dual audio-val
----DirectOne
-   hanghiba javítva
+-- Disney+ (működésképtelen volt..)
+-- skyshowtime (en/hu hang hibák..)
+-- foldfelszini-tv.one oldallal
+   továbbra is működik a mindigo menü..
+   (epg-vel itt is pár napra visszamenőleg
+    vissza lehet menni)
+	+ sorozatokhoz, ha van akkor az epizód 
+	címe is hozzá lesz adva..
+-- Youtube VOD (magyar és külföldi Filmek 
+   és Sorozatok részleg, max 1080p és 5.1)
