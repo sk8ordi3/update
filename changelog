@@ -1,24 +1,23 @@
-v2.9.5
+v2.9.6
+
+---új letöltő hozzáadva: LIVE
+-- OneTV (régen voda) végre...
+   epg alapján
+   firefoxba kell a one-tv oldalán bejelentkezni
+   ezután bezárni az összes tabot
+   és az utolsó bezárja a firefoxot is
+   majd lehet indítani a drm programot...
 
 ---új letöltő hozzáadva: Ctrl + 6
--- DumaTv
+---AMZN Prime másolat (keresés film/sorozat cím alapján)
+-- valakik lemásolták és folyamatosan töltögetik fel
+   az AMZN Prime-ról a filmeket sorozatokat 
+   (nem eredeti minőségbe, szinkron csak elvétve van!)
 
 ---új letöltő hozzáadva: DRM nélküli vod >
 ---06 yt-dlp Unsupported URL
--- dezn.ru
--- joyn.de
--- videa.hu (tag vagy csatorna linket megadva)
-   összes videó ki lesz listázva, 
-   majd a számokkal lehet választani..
+-- tv5mondeplus
+-- vix.com
 
----javítva:
--- Disney+ (működésképtelen volt..)
--- skyshowtime (en/hu hang hibák..)
--- foldfelszini-tv.one oldallal
-   továbbra is működik a mindigo menü..
-   (epg-vel itt is pár napra visszamenőleg
-    vissza lehet menni)
-	+ sorozatokhoz, ha van akkor az epizód 
-	címe is hozzá lesz adva..
--- Youtube VOD (magyar és külföldi Filmek 
-   és Sorozatok részleg, max 1080p és 5.1)
+---d-fi (deezer, spotify)
+-- arl frissítve (128)
