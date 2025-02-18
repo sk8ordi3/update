@@ -1,23 +1,20 @@
-v2.9.6
+v2.9.7
 
----új letöltő hozzáadva: LIVE 1
--- OneTV (régen voda) végre...
-   epg alapján
-   firefoxba kell a one-tv oldalán bejelentkezni
-   ezután bezárni az összes tabot
-   és az utolsó bezárja a firefoxot is
-   majd lehet indítani a drm programot...
-
----új letöltő hozzáadva: Ctrl + 6
----AMZN Prime másolat (keresés film/sorozat cím alapján)
--- valakik lemásolták és folyamatosan töltögetik fel
-   az AMZN Prime-ról a filmeket sorozatokat 
-   (nem eredeti minőségbe, szinkron csak elvétve van!)
+---javítva:
+-- RTL+ (működésképtelen volt..)
+-  mostantól a letöltéshez, kereséshez, livehoz
+   egyedi eszköznév lesz rendelve
+   ezek minden menüt indítva törlésre kerülnek
+-  ha alapból túl sok eszköz lenne, akkor azt 
+   a konzol jelezni fogja
 
 ---új letöltő hozzáadva: DRM nélküli vod >
----06 yt-dlp Unsupported URL
--- tv5mondeplus
--- vix.com
-
----d-fi (deezer, spotify)
--- arl frissítve (128)
+---03 yt-dlp Unsupported URL
+-- jeugdjournaal.nl
+-- vidmoly
+-- maxfinishseveral (voe)
+-- robertordercharacter (voe)
+-- voe.sx
+-- kktv.me
+-- dragonhall.hu/tv.dragonhall.hu
+-- flixhouse.com
