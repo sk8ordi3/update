@@ -1,20 +1,14 @@
-v2.9.7
+v2.9.8
+
+---új letöltő hozzáadva: Ctrl + 6
+-- Udemy
+
+---DRM nélküli vod >
+---03 yt-dlp Unsupported URL
+-- viki.com
+-  free változat javítva
+-  hozzáadva: előfizetéses account használata
 
 ---javítva:
--- RTL+ (működésképtelen volt..)
--  mostantól a letöltéshez, kereséshez, livehoz
-   egyedi eszköznév lesz rendelve
-   ezek minden menüt indítva törlésre kerülnek
--  ha alapból túl sok eszköz lenne, akkor azt 
-   a konzol jelezni fogja
-
----új letöltő hozzáadva: DRM nélküli vod >
----03 yt-dlp Unsupported URL
--- jeugdjournaal.nl
--- vidmoly
--- maxfinishseveral (voe)
--- robertordercharacter (voe)
--- voe.sx
--- kktv.me
--- dragonhall.hu/tv.dragonhall.hu
--- flixhouse.com
+-- MAX
+-- Yettel
