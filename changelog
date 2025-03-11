@@ -1,13 +1,22 @@
-v2.9.8
+v2.9.9
 
 ---új letöltő hozzáadva: Ctrl + 6
--- Udemy
+-- Spotify Podcast (csak podcastokhoz!)
+   (aki a spoti miatt féltené az acc-ot
+   az csináljon egy free-t a podcastokhoz...)
+   show és episode linkekkel működik
+   valamelyiket megadva az összes elérhető
+   podcast listázva lesz
+-- CANAL+ (csak SD tartalmak)
 
 ---javítva:
 -- MAX
+   feliratok kódolásával volt probléma
+   aki használja mindenképpen frissítsen!
 -- Yettel
----DRM nélküli vod >
+   változtatás lekövetve
+
+---új letöltő hozzáadva: DRM nélküli vod >
 ---03 yt-dlp Unsupported URL
--- viki.com
--  free változat javítva
--  hozzáadva: előfizetéses account használata
+-- mixdrop
+-- 123moviesfree
