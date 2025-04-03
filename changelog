@@ -1,66 +1,12 @@
-v3.0.0
-
----új letöltő hozzáadva: LIVE2
--- Antik webtv (ingyenes csomag)
--  pl. M2-nél ezzel így már lehetőség van
-   több mint 20 napra visszamenni epg-ből
--  nincs szükség account-ra, de nagyon 
-   érzékeny tud lenni az ip-re... ilyenkor 
-   kell egy ip címet váltani vpn-el
-   (valamelyik ingyenes desktop vpn is jó)
-
--- M3 mtva élő felvétel
-
----új letöltő hozzáadva: DRM nélküli vod >
----03 yt-dlp Unsupported URL
--  vidply.com
--  atalon.hu
--  alejandrocenturyoil (voe.sx)
--  kristiesoundsimply (voe.sx)
--  bigwarp
--  7plus
--  BBC Iplayer (max. 1080p)
--- sorozatbaratnál már nem kell reklámot nézni
-
--- + elkezdtem átdolgozni, javítani ezt a menüt...
-   ha valamit kihagytam volna az csak amiatt
-   lehetett mert több mint 80 letöltő 
-   volt benne amik már kb. nem is éltek...
-   kérd újra nyugodtan
+v3.0.1
 
 ---javítva:
 -- MAX
--  oldal változás lekövetve mivel a 
-   mux nélküli menükön kívül csak SD tartalom 
-   volt elérhető
-   aki használja mindenképpen frissítsen!
--  volt, hogy csak egy szám jelent meg a
-   sorozat/film címe helyett
+-  reggelre újabb trükköt iktattak be, hogy 
+   csak SD-t lehessen elérni...
+   (mux nélküli menüket nem érintette)
+-  javítva python 3.9 > 3.12-ig
 
--- Japanese Film Festival
-   (nincs szükség accountra csak az aktuális linkre
-   zöld pipa jelzi az oldalon mi az ami nézhető)
-   link: https://www.jff.jpf.go.jp/
-   (égetett felirat nélkül vannak a filmek)
-
--- di-fi: youtube lejátszási listákkal nem működött
-
--- Bober.tv LIVE javítva
--  firefoxos megoldásra kellett áttérni...
-
--- Spotify Podcast
--  oldalváltozás lekövetve
-
--- yt-dlp befrissítve win7-re is
--  (ez megoldotta a Youtube TV (VOD) problémát is)
-
----Beállítások menü megújítva
--  megszüntettem a régit és helyette egy letisztultabb
-   menürendszert kapott (még biztos fog változni..)
--  csak opció... nem igényel állítgatást továbbra sem!
--  emiatt erre már nincs szükség, törölhető:
-   Downloads\info\settings.json
-
----az új verzió kijelzése gomb is megváltozott
--  az ott megjelenő ablak kapott alsó és felső scrollbar-t is
-   ez a következő verzióba fog aktiválódni nálatok...
+-- Disney+
+-  évad választó / sorozat kibontó
+   ( oldal változtatás lekövetve )
