@@ -1,12 +1,21 @@
-v3.0.1
+v3.0.2
 
----javítva:
--- MAX
--  reggelre újabb trükköt iktattak be, hogy 
-   csak SD-t lehessen elérni...
-   (mux nélküli menüket nem érintette)
--  javítva python 3.9 > 3.12-ig
+---Javítva:
+-- d-fi-hez visszatettem a régebbi verziót
+   viszont ez a spotify változtatása miatt már 
+   csak deezer linkekkel működik
+   (kb. ami megvan spotify-on az deezer-en is...)
+   
+   a példátokra:
+   https://www.deezer.com/en/album/14184092
+   
+   a short deezer linkekkel nem tud mit kezdeni
+   https://dzr.page.link/8Jhq3hyfqgwutMkx5
+   
+   a böngésző címsorába beillesztve átirányít a jó linkre
+   azt már meg lehet majd adni 
+   pl. a short deezer linkből lesz ez:
+   https://www.deezer.com/en/track/133238776
 
--- Disney+
--  évad választó / sorozat kibontó
-   ( oldal változtatás lekövetve )
+-- NAVA
+   keresőben az évszám javítva
