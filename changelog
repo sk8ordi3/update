@@ -1,21 +1,11 @@
-v3.0.2
+v3.0.3
 
 ---Javítva:
--- d-fi-hez visszatettem a régebbi verziót
-   viszont ez a spotify változtatása miatt már 
-   csak deezer linkekkel működik
-   (kb. ami megvan spotify-on az deezer-en is...)
-   
-   a példátokra:
-   https://www.deezer.com/en/album/14184092
-   
-   a short deezer linkekkel nem tud mit kezdeni
-   https://dzr.page.link/8Jhq3hyfqgwutMkx5
-   
-   a böngésző címsorába beillesztve átirányít a jó linkre
-   azt már meg lehet majd adni 
-   pl. a short deezer linkből lesz ez:
-   https://www.deezer.com/en/track/133238776
+-- MAX
+ - felirat és videó letöltés hiba javítva
+ - hangalámondásos audiók kiírtva
+   (akinek esetleg mégis kellene az a mux
+   nélküli menükkel meg tudja oldani)
 
--- NAVA
-   keresőben az évszám javítva
+-- d-fi 
+ - short deezer link támogatása
