@@ -1,11 +1,13 @@
-v3.0.3
+v3.0.4
 
 ---Javítva:
 -- MAX
- - felirat és videó letöltés hiba javítva
- - hangalámondásos audiók kiírtva
-   (akinek esetleg mégis kellene az a mux
-   nélküli menükkel meg tudja oldani)
+ - oldalváltoztatás lekövetve
+   most már minden menü működőképes, 
+   nem csak a mux nélküliek
 
--- d-fi 
- - short deezer link támogatása
+-- firefox log >> teljes útvonallal
+
+-- Arena4+
+ - oldalváltoztatás lekövetve
+   a vod linkeket live-nak érzékelte...
