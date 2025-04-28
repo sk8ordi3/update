@@ -1,13 +1,21 @@
-v3.0.4
+v3.0.5
 
----Javítva:
--- MAX
- - oldalváltoztatás lekövetve
-   most már minden menü működőképes, 
-   nem csak a mux nélküliek
+---javítva:
 
--- firefox log >> teljes útvonallal
+   Disney+
+-  a legtöbb menüt kiszedtem mert már feleslegessé vált   
+-  hozzáadva:
+   360p-től 2160p Dolby Vision, HDR
+-  mivel alapból nem lenne 4K ezért 
+   csak teszteléssel derül ki, hogy melyik lesz az
+   (több a 4k hdr mint a dv...)
 
--- Arena4+
- - oldalváltoztatás lekövetve
-   a vod linkeket live-nak érzékelte...
+-  litázásos megoldás lett
+   szóval, ha van 70 rész akkor
+   1-70 és végig megy a részeken
+   vagy kombináció: 5 9 20-30
+
+   Filmio-Mindigtv-go
+-  felbontás választó javítva
+
+hibajelentés továbbra is pm-be!
