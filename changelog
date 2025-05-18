@@ -1,24 +1,17 @@
-v3.0.5
+v3.0.6
 
----javítva:
+---javítva: EXT_DL > Amazon Prime
+-- ext_dl telepítése/frissítése:
+   duplaklikk a mappádban lévő 
+   !update_....py fájlra
+   a javításhoz az 1-es és 
+   majd a 2-es is kelleni fog!
+   
+---javítva: NAVA
+-- plusz szűrés kiszedve
+---javítva: Gerilla Mentor
 
-   Disney+
--  a legtöbb menüt kiszedtem mert már feleslegessé vált   
--  hozzáadva:
-   360p-től 2160p Dolby Vision, HDR
--  mivel alapból nem lenne 4K ezért 
-   csak teszteléssel derül ki, hogy melyik lesz az
-   (több a 4k hdr mint a dv...)
-
--  litázásos megoldás lett
-   szóval, ha van 70 rész akkor
-   1-70 és végig megy a részeken
-   vagy kombináció: 5 9 20-30
-
--  Beállítások > Disney+ menübe hozzáadva:
-   sávok letöltése egyszerre (igen az alap)
-
-   Filmio-Mindigtv-go
--  felbontás választó javítva
-
-hibajelentés továbbra is pm-be!
+---új letöltő hozzáadva: DRM nélküli vod >
+---03 yt-dlp Unsupported URL
+--  sooner.de
+--  javítva: vix.com
