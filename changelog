@@ -1,18 +1,47 @@
-v3.0.6
+v3.0.7
 
----javítva: EXT_DL > Amazon Prime 
--- (SD > 1080p)
--- ext_dl telepítése/frissítése:
+---új letöltő hozzáadva: DRM nélküli vod >
+---03 yt-dlp Unsupported URL
+-  fawesome.tv
+-  cda.pl
+
+---új csatornák hozzáadva: LIVE2 >
+-- Antik webtv
+
+---új letöltő hozzáadva: LIVE2 >
+-- Tv2Play
+-  elérhető live-ok listázása
+-  felvétel kezdete: -5 perc, vége: +5 perc
+-  pár perc után ctrl + c bill. kombinációval
+   bármikor megszakíthatod
+
+---d-fi (deezer, spotify)
+-- arl frissítve (128)
+
+---javítva: VPN > Plex TV (VOD)
+-- firefoxban kell bejelentkezni erre az oldalra:
+   https://watch.plex.tv/
+
+---javítva: ext_dl > Apple TV+
+-- (SD > 4K)
+-  a 4K csak a H265 kiválasztásával lesz elérhető
+
+-- (automatikusan) ext_dl telepítése/frissítése:
    duplaklikk a mappádban lévő 
    !update_....py fájlra
    a javításhoz az 1-es és 
    majd a 2-es is kelleni fog!
-   
----javítva: NAVA
--- plusz szűrés kiszedve
----javítva: Gerilla Mentor
 
----új letöltő hozzáadva: DRM nélküli vod >
----03 yt-dlp Unsupported URL
---  sooner.de
---  javítva: vix.com
+-- (manuálisan) ext_dl telepítése/frissítése:
+   00.
+    v3.0.7
+   01.
+    a teljes meglévő ext_dl mappa törlése:
+    Downloads\info\ext_dl
+   02.
+    kicsomagolva a ext_dl_v2.9.7z -t
+    ide kell tenni: (így is van mappázva)
+    Downloads\info\ext_dl
+   03.
+    install: install_ext_dl.py
+    drmfiles\programok\hianyzo-modulok
