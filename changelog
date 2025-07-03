@@ -1,15 +1,9 @@
-v3.0.8
+v3.0.9
 
 ---Javítva:
--- MAX
-- \t tag a címben
-- működésképtelen volt a letöltés
+--LIVE1 > Telekom TVGO > 02 v2
 
----új letöltő hozzáadva: DRM nélküli vod >
----03 yt-dlp Unsupported URL
--  watch.shout-tv.com
-
----új letöltő menü hozzáadva: LIVE1 > one-tv
--- Felvételek 
--  a rögzített sorozatepizódok/filmek letöltése
-(ha a one beállításában nincs védetté téve egy epizód/film akkor pár nap után auto törlésre kerül)
+--jelenleg az !update_.....py fájl nem működik
+  a jelenlegi mappádból törlöd a !update_.....py fájlt
+  ebben a verzióban lévővel cserélni 
+  majd duplaklikk rá és auto frissít
