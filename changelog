@@ -1,15 +1,25 @@
-v3.1.0
+v3.1.1
 
-Amíg a prohardver oldal nem támad fel 
+----javítva: 
+---LIVE > Telekom TVGO
+-- megvett/bérelt tartalmaikat   
+-- live (epg)
+-- új menü hozzáadva: élő felvétel
+
+---Arena4+
+-- login részhez elkezdtek robotos captcha-t használni 
+   emiatt visszakerült a firefoxos megoldás...
+   firefoxban kell bejelentkezni a network4 oldalán
+   megnyitott tabokat bezárni
+   és az utolsó bezárja a firefoxot is
+   ezután lehet indítani a drm programot
+
+---MAX > HBOMAX
+-- max átirányítási problémák megoldva hbomax-ra
+
+Amíg a prohardver oldal nem támad fel
 addig itt lehet hibát jelenteni:
 anonym_7337@protonmail.com
 
 az !update...py fájl ismét működésképtelen lett...
 tudok róla, emiatt ne írj!
-
----javítva: 
--- LIVE > Telekom TVGO
-   (a változtatásuk biztos, hogy a 
-   megvett/bérelt tartalmaikat is érintette, 
-   de addig még nem jutottam el...)
--- M3 archívum
