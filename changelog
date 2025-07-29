@@ -1,10 +1,22 @@
-v3.1.1
+v3.1.2
 
 ----javítva: 
+---RTL+ 
+   ahogy eddig is volt egyes 1080p videóknál 
+   megjelent, hogy csak max 720p ami még letölthető
+   ez továbbra is így van, de most már 99%, hogy
+   ezek 1080p-be hibásak is lesznek
+   emiatt a konzolt megállítom, de a lehetőséget
+   meghagyom, hogy lehessen választani aki esetleg
+   mégis megpróbálná ennek ellenére letölteni
+
+v3.1.1-ben lévő javítások (aki lemaradt volna):
+----javítva:
 ---LIVE > Telekom TVGO
--- megvett/bérelt tartalmak
--- live (epg)
 -- új menü hozzáadva: élő felvétel
+-- live (epg)
+---VOD > Telekom TVGO
+-- megvett/bérelt tartalmak
 
 ---Arena4+
 -- login részhez elkezdtek robotos captcha-t használni 
@@ -16,10 +28,6 @@ v3.1.1
 
 ---MAX > HBOMAX
 -- max átirányítási problémák megoldva hbomax-ra
-
-Amíg a prohardver oldal nem támad fel
-addig itt lehet hibát jelenteni:
-anonym_7337@protonmail.com
 
 az !update...py fájl ismét működésképtelen lett...
 tudok róla, emiatt ne írj!
