@@ -1,33 +1,28 @@
-v3.1.2
+v3.1.3
 
-----javítva: 
----RTL+ 
-   ahogy eddig is volt egyes 1080p videóknál 
-   megjelent, hogy csak max 720p ami még letölthető
-   ez továbbra is így van, de most már 99%, hogy
-   ezek 1080p-be hibásak is lesznek
-   emiatt a konzolt megállítom, de a lehetőséget
-   meghagyom, hogy lehessen választani aki esetleg
-   mégis megpróbálná ennek ellenére letölteni
+---új csatornák hozzáadva: LIVE2 >
+-- Antik webtv
 
-v3.1.1-ben lévő javítások (aki lemaradt volna):
-----javítva:
----LIVE > Telekom TVGO
--- új menü hozzáadva: élő felvétel
--- live (epg)
----VOD > Telekom TVGO
--- megvett/bérelt tartalmak
+---javítva: CTRL + 5 
+-- Gerilla Mentor
+-- Mediaklikk
 
----Arena4+
--- login részhez elkezdtek robotos captcha-t használni 
-   emiatt visszakerült a firefoxos megoldás...
-   firefoxban kell bejelentkezni a network4 oldalán
-   megnyitott tabokat bezárni
-   és az utolsó bezárja a firefoxot is
-   ezután lehet indítani a drm programot
+---Auto python install: install_python_3.12.10.bat
+   drmfiles\programok\hianyzo-modulok\
+-- python 3.9 lecserélve > python 3.12.10-es verzióra
+-  Nem kell használni csak, ha valami hibára futna...
+-  Akinek viszont még nincs python a gépén 
+   annak célszerű ezt használni:
+   duplaklikk a fájlra és telepíti a pythont
+   a szükséges modulokkal együtt
+-  az új yt-dlp verzió kivezette a python 3.9-et
+   ennek még nem tudom milyen hatása lesz
+   egyelőre meghagytam azt a verziót
+   amibe még támogatva van a 3.9
 
----MAX > HBOMAX
--- max átirányítási problémák megoldva hbomax-ra
-
-az !update...py fájl ismét működésképtelen lett...
-tudok róla, emiatt ne írj!
+---javítva: !update...py fájl
+-- Ez majd csak a következő frissítésnél lesz aktív
+   a jelenlegi mappádból a frissítés nem fog működni!
+VAGY a mega linken lévő fájlt bontsd ki és írd felűl 
+az !update...py fájjlal ami a mappádban van
+így újra működőképes lesz
