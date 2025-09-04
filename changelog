@@ -1,5 +1,9 @@
 v3.1.4
 
+a robotok és egyéb más turkálás elkerülése miatt
+kicsomagoláshoz: drm
+(!update fájl használatakor nincs rá szükség)
+
 az update ismételten szivat...
 ---javítva: !update...py fájl
 -- Ez majd csak a következő frissítésnél lesz aktív
