@@ -23,8 +23,10 @@ az !update...py fájjlal ami a mappádban van
 
 ---javítva: CTRL + 5
 -- Mediaklikk
--- HBOMAX olimpia linkek javítva
-   beállításokba a HBOMAX almenübe bekerült: AVC_HEVC
+
+---javítva: HBOMAX
+-- olimpia linkek javítva
+-- beállításokba a HBOMAX almenübe bekerült: AVC_HEVC
    ezt csak azok használják akiknek mindegy, hogy 
    h264 vagy h265 lesz letöltve, ez amiatt lett mert 
    már elkezdték variálva feltölteni a tartalmakat...
