@@ -1,32 +1,32 @@
-v3.1.4
+v3.1.5
 
-a robotok és egyéb más turkálás elkerülése miatt
-kicsomagoláshoz: drm
-(!update fájl használatakor nincs rá szükség)
+---letöltő újraírva: Ctrl + 6
+---NF másolat: (ismeretlen oldal...)
+   mindenképpen kell már hozzá google fiók,
+   de csak kamu fiókot hozzatok létre hozzá!
 
-az update ismételten szivat...
----javítva: !update...py fájl
--- Ez majd csak a következő frissítésnél lesz aktív
-   a jelenlegi mappádból a frissítés nem fog működni!
-VAGY a mega linken lévő fájlt bontsd ki és írd felűl 
-az !update...py fájjlal ami a mappádban van
-így újra működőképes lesz
+---új letöltő hozzáadva: Ctrl + 6
+-- voxa.hu
+   e-mail/pw vagy google login (firefoxból)
 
----új letöltő hozzáadva: DRM nélküli vod >
----03 yt-dlp Unsupported URL
--- frf.tv
+---LIVE > Telekom TVGO, OneTv
+-- új menü hozzáadva: 
+   élő adásból visszatöltés (csúsztatás percben)
 
----új csatornák hozzáadva: mindigtvgo >
--- !válogató
-   1 videó felbontás
-   hangból nem számít mennyi lesz kiválasztva
+---LIVE > sweet.tv
+-- új menü hozzáadva: 
+   dvr felvétel (felbontás választó)
 
----javítva: CTRL + 5
--- Mediaklikk
+---javítva: 
+-- M3 archívum
+-- Disney+
+-- HBOMAX
+-- mindigtv-filmio
+-- RTL+
 
----javítva: HBOMAX
--- olimpia linkek javítva
--- beállításokba a HBOMAX almenübe bekerült: AVC_HEVC
-   ezt csak azok használják akiknek mindegy, hogy 
-   h264 vagy h265 lesz letöltve, ez amiatt lett mert 
-   már elkezdték variálva feltölteni a tartalmakat...
+drm nélküli vod menü lecserélve erre: yt-dlp
+---új letöltő hozzáadva: yt-dlp >
+---03 yt-dlp által nem támogatott oldalak:
+-- netacademia.hu
+-- filemoon
+-- eszinhaz.hu
