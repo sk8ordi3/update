@@ -1,32 +1,23 @@
-v3.1.5
+v3.1.6
 
----letöltő újraírva: Ctrl + 6
----NF másolat: (ismeretlen oldal...)
-   mindenképpen kell már hozzá google fiók,
-   de csak kamu fiókot hozzatok létre hozzá!
+---M3, NAVA listázás kikerült a főoldalról és
+   átkerültek a saját helyükre
+
+---Hibajeletés menü lett a főoldalon
+   https://privatebin.net/ a legjobb erre a célra
+   a kép és a szöveg is titkosítva lesz
+   a továbbiakban így csinálja mindenki
+   nem bonyolult és a menün kívül lesz egy .txt fájl is
+   amibe le van írva, ha valaki nem boldogulna vele
+
+---bővítve: CTRL + 5 > mediaklikk (video)
+-- Teljes műsor
+-- műsor linken keresztül az összes hozzá tartozó
+   évad|rész|videó listázva lesz
 
 ---új letöltő hozzáadva: Ctrl + 6
--- voxa.hu
-   e-mail/pw vagy google login (firefoxból)
-
----LIVE > Telekom TVGO, OneTv
--- új menü hozzáadva: 
-   élő adásból visszatöltés (csúsztatás percben)
-
----LIVE > sweet.tv
--- új menü hozzáadva: 
-   dvr felvétel (felbontás választó)
-
----javítva: 
--- M3 archívum
--- Disney+
--- HBOMAX
--- mindigtv-filmio
--- RTL+
-
-drm nélküli vod menü lecserélve erre: yt-dlp
----új letöltő hozzáadva: yt-dlp >
----03 yt-dlp által nem támogatott oldalak:
--- netacademia.hu
--- filemoon
--- eszinhaz.hu
+-- látni fogjátok, hogy mi az utolsó ott, 
+   de itt inkább nem írom le...
+-- mindenki tudja használni, de NE egy nap alatt 
+   csináljatok siterip-et belőle
+-- 30 mp szünet hozzáadva minden letöltés után!
