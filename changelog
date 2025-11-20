@@ -1,23 +1,50 @@
-v3.1.6
+v3.1.7
+
+Linux támogatás hozzáadva
+
+Innen is köszi a segítséget akik 
+segítettek a tesztelésben!
+(sokminden változott a tesztverzió óta)
+
+frissítés után, ebbe benne lesz minden:
+linux_OLVASS_EL_install_help.txt
+
+yt-dlp-hez a youtube variálása miatt
+a deno.exe hozzáadva
 
 ---új letöltő hozzáadva: Ctrl + 6
--- látni fogjátok, hogy mi az utolsó ott, 
-   de itt inkább nem írom le...
--- mindenki tudja használni, de NE egy nap alatt 
-   csináljatok siterip-et belőle
--- 30 mp szünet hozzáadva minden letöltés után!
+-- Discovery+
 
----M3, NAVA listázás kikerült a főoldalról és
-   átkerültek a saját helyükre
-
----Hibajeletés menü lett a főoldalon
-   https://privatebin.net/ a legjobb erre a célra
-   a kép és a szöveg is titkosítva lesz
-   a továbbiakban így csinálja mindenki
-   nem bonyolult és a menün kívül lesz egy .txt fájl is
-   amibe le van írva, ha valaki nem boldogulna vele
+---új funkció hozzáadva: NAVA > 01
+-- linkek betöltése fájlból
 
 ---bővítve: CTRL + 5 > mediaklikk (video)
--- Teljes műsor
--- műsor linken keresztül az összes hozzá tartozó
-   évad|rész|videó listázva lesz
+-- feliratok letöltése, ha elérhető
+
+---új funkció hozzáadva: Direct One > 06
+-- Sorozat kibontása
+-  epg | Visszajátszás & Videótár
+   (itt mail/pass van a firefox helyett)
+
+---Új letöltő hozzáadva: ext_dl > Rakuten TV
+-- fizetős tartalmakhoz is
+
+-- (automatikusan) ext_dl telepítése/frissítése:
+   duplaklikk a mappádban lévő 
+   !update_....py fájlra
+   a javításhoz az 1-es és 
+   majd a 2-es is kelleni fog!
+
+-- (manuálisan) ext_dl telepítése/frissítése:
+   00.
+    v3.1.7
+   01.
+    a teljes meglévő ext_dl mappa törlése:
+    Downloads\info\ext_dl
+   02.
+    kicsomagolva a ext_dl_v3.0.7z -t
+    ide kell tenni: (így is van mappázva)
+    Downloads\info\ext_dl
+   03.
+    install: install_ext_dl.py
+    drmfiles\programok\hianyzo-modulok
