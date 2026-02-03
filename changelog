@@ -1,12 +1,36 @@
-v3.1.8
+v3.1.9
 
-Elsősorban linuxhoz, lett egy gomb
-amivel egyszerűen lehet frissíteni, ha
-még nem lenne új főverzió:
-Beállítások > Kényszerített frissítés
+---új letöltő hozzáadva: Ctrl + 7
+-- ResolveUrl (videótárolókhoz)
+-  voe.sx, vidoza.net, 
+   vidmoly.net, vtbe.to, dsvplay.com
+-- MEGOGO (megogo.net)
+-  megvett/bérelt tartalmakhoz
 
----Új letöltő hozzáadva: LIVE 2
--- m4 sport élő
+---új letöltő hozzáadva: Zene
+-- 04 Tidal (tiddl)
+-  auto eszköz megújítás 4 óránként
+   vagy, ha már csak kb. 30 perc lenne hátra 
+   akkor a letöltés előtt megújul...
+-  linkek betöltése fájlból
 
----javítva: Ctrl + 1
--- f1TV
+---új letöltő hozzáadva: yt-dlp >
+---03 yt-dlp által nem támogatott oldalak
+-- Steam, vk.com, itv.com, u.co.uk, all4, 
+   telenovellasarok
+
+---bővítve: LIVE 1 > one-tv
+-- 02 Felvételek v2
+-- 04 epg sorozat lap link + felvételek
+
+---új csatornák hozzáadva: LIVE2 >
+-- Antik webtv (firefox bejelentkezés)
+
+---bővítve: TelekomTVGO
+-- Filmklub (Sorozatok)
+-- Felvételek
+
+---javítva: CTRL + 6
+-- Udemy
+
+a DirectOne menü a főoldalon az egyben a canal+ HU is
