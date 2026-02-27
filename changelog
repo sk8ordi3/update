@@ -1,36 +1,29 @@
-v3.1.9
+v3.2.0
 
----új letöltő hozzáadva: Ctrl + 7
--- ResolveUrl (videótárolókhoz)
--  voe.sx, vidoza.net, 
-   vidmoly.net, vtbe.to, dsvplay.com
--- MEGOGO (megogo.net)
--  megvett/bérelt tartalmakhoz
-
----új letöltő hozzáadva: Zene
--- 04 Tidal (tiddl)
--  auto eszköz megújítás 4 óránként
-   vagy, ha már csak kb. 30 perc lenne hátra 
-   akkor a letöltés előtt megújul...
--  linkek betöltése fájlból
-
----új letöltő hozzáadva: yt-dlp >
----03 yt-dlp által nem támogatott oldalak
--- Steam, vk.com, itv.com, u.co.uk, all4, 
-   telenovellasarok
-
----bővítve: LIVE 1 > one-tv
--- 02 Felvételek v2
--- 04 epg sorozat lap link + felvételek
-
----új csatornák hozzáadva: LIVE2 >
--- Antik webtv (firefox bejelentkezés)
-
----bővítve: TelekomTVGO
--- Filmklub (Sorozatok)
--- Felvételek
-
----javítva: CTRL + 6
--- Udemy
-
-a DirectOne menü a főoldalon az egyben a canal+ HU is
+- ---Új letöltő hozzáadva: ext_dl > MoviesAnywhere
+- -- fizetős tartalmakhoz (max 720p)
+  
+- -- (automatikusan) ext_dl telepítése/frissítése:
+    duplaklikk a mappádban lévő 
+    !update_....py fájlra
+    az 1-es gomb és majd a 2-es is kelleni fog!
+  
+- -- (manuálisan) ext_dl telepítése/frissítése:
+    00.
+     v3.2.0
+    01.
+     a teljes meglévő ext_dl mappa törlése:
+     Downloads\info\ext_dl
+    02.
+     kicsomagolva a ext_dl_v3.2.7z -t
+     ide kell tenni: (így is van mappázva)
+     Downloads\info\ext_dl
+    03.
+     install: install_ext_dl.py
+     drmfiles\programok\hianyzo-modulok
+  
+- ---javítva:
+- -- skyshowtime (id fix)
+- -- M3 (pssh fix)
+- -- arena4+ (?filter=0 url fix)
+- -- mediaklikk (rikán, de kaphat drm védelmet)
