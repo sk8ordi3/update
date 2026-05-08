@@ -1,27 +1,21 @@
-v3.2.1
+v3.2.2
 
-===bővítve: LIVE1 > 01 TelekomTVGO
-== v3 élő adásból visszatöltés
-=  + lokális adatbázis
-=  ebbe került a csúsztatás is
+===új letöltő hozzáadva: Ctrl + 7
+== STARZPLAY
 
-===bővítve: Ctrl + 1 > 04 SELEKT
-== váltás user/pass megoldásra
-=  + komplett sorozatok elérése
-=  akinek csak az ingyenes account
-   lenne a SELEKT-hez (Light fiók)
-   ingyenes tartalmak itt: Főoldal >
-   SELEKT Light | Regisztrációval nézhető
-
-===bővítve: M3 MTVA
-== 04 letöltés oldalsávból
-=  + ottlévő sorozatok rendezése
-
-===bővítve: DirectOne/canal+ HU
-== 04 video, hang(ok) választó
+===03 yt-dlp által nem támogatott oldalak:
+== hqq, creatortv, videotorium
 
 ===javítva:
-== arena4+ ( /1 url fix)
-== NAVA
-== RTL+ ( ... a címben fix)
-== f1TV
+== LIVE 1 > TVGO
+== CTRL + 1 > Infinty+
+== CTRL + 6 > Spotify Podcast
+
+===javítva:
+== Skyshowtime
+== DirectOne/canal+ HU
+
+Akinek hibát jelez a mappában lévő
+!update...py fájl (beállításokban [kényszerített frissítés]), 
+azt csak azzal lehet javítani,
+ha a mega linkről lesz az új verzió leszedve!
