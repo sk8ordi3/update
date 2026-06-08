@@ -1,21 +1,25 @@
-v3.2.2
+v3.2.3
+
+===új Menü hozzáadva a főoldalra:
+== Menü Kereső
+   (A Hibajelentés átkerült a beállításokba
+    és fájlként továbbra is ott a mappádban)
 
 ===új letöltő hozzáadva: Ctrl + 7
-== STARZPLAY
+== Amazon [com, de, gb, it, au, jp]
+   (ez nem a primevideo.com!)
 
+== Hunbasket.hu
+
+===új letöltő hozzáadva: Főoldal
+== Canal+ (HU) változások lekövetve
+
+===javítva:
 ===03 yt-dlp által nem támogatott oldalak:
-== hqq, creatortv, videotorium
+== sooner.fr, sooner.de
 
-===javítva:
-== LIVE 1 > TVGO
-== CTRL + 1 > Infinty+
-== CTRL + 6 > Spotify Podcast
-
-===javítva:
-== Skyshowtime
-== DirectOne/canal+ HU
 
 Akinek hibát jelez a mappában lévő
-!update...py fájl (beállításokban [kényszerített frissítés]), 
+!update...py fájl (beállításokban [kényszerített frissítés]),
 azt csak azzal lehet javítani,
 ha a mega linkről lesz az új verzió leszedve!
