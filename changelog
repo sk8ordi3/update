@@ -14,3 +14,6 @@ v3.2.4
 == Ctrl +6: Spotify podcast
    ha elérhető akkor a leírás, átirat, fejezetek
    külön fájlokban is mentve lesznek
+
+linux rendszereken a dupla Enter "bug" miatt
+egy link bekérő ablak fog bejönni...
