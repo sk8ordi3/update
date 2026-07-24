@@ -1,25 +1,16 @@
-v3.2.3
+v3.2.4
 
-===új Menü hozzáadva a főoldalra:
-== Menü Kereső
-   (A Hibajelentés átkerült a beállításokba
-    és fájlként továbbra is ott a mappádban)
+=== új letöltő hozzáadva: LIVE 2
+== Rakuten TV
 
-===új letöltő hozzáadva: Ctrl + 7
-== Amazon [com, de, gb, it, au, jp]
-   (ez nem a primevideo.com!)
+=== javítva:
+== hbomax
 
-== Hunbasket.hu
+== 03 yt-dlp által nem támogatott oldalak:
+== m4sport, joyn.de, arcanum
 
-===új letöltő hozzáadva: Főoldal
-== Canal+ (HU) változások lekövetve
+== Ctrl +5: mediaklikk.hu
 
-===javítva:
-===03 yt-dlp által nem támogatott oldalak:
-== sooner.fr, sooner.de
-
-
-Akinek hibát jelez a mappában lévő
-!update...py fájl (beállításokban [kényszerített frissítés]),
-azt csak azzal lehet javítani,
-ha a mega linkről lesz az új verzió leszedve!
+== Ctrl +6: Spotify podcast
+   ha elérhető akkor a leírás, átirat, fejezetek
+   külön fájlokban is mentve lesznek
